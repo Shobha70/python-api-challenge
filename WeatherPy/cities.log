@@ -1,0 +1,568 @@
+2021-01-19 16:17:01,519 City:ribeira grande,latitude:34.5316339437894,Temperature(F):60.8,Humidity(%):77,Cloudiness(%):40,Wind Speed(mph):16.11
+2021-01-19 16:17:01,663 City:oussouye,latitude:11.596525964005878,Temperature(F):77,Humidity(%):53,Cloudiness(%):0,Wind Speed(mph):2.3
+2021-01-19 16:17:01,732 City:nikolskoye,latitude:33.315040316462856,Temperature(F):23,Humidity(%):86,Cloudiness(%):90,Wind Speed(mph):4.47
+2021-01-19 16:17:01,820 City:kichera,latitude:56.30127914556908,Temperature(F):-3.84,Humidity(%):81,Cloudiness(%):100,Wind Speed(mph):2.15
+2021-01-19 16:17:01,938 City:georgetown,latitude:-21.48729987720185,Temperature(F):76.28,Humidity(%):83,Cloudiness(%):40,Wind Speed(mph):4.61
+2021-01-19 16:17:02,005 City:puerto ayora,latitude:-11.43553580576203,Temperature(F):80.31,Humidity(%):74,Cloudiness(%):20,Wind Speed(mph):14.97
+2021-01-19 16:17:02,063 City:sabang,latitude:7.572320757104862,Temperature(F):80.74,Humidity(%):76,Cloudiness(%):62,Wind Speed(mph):15.46
+2021-01-19 16:17:02,128 City:cape town,latitude:-48.33443575087694,Temperature(F):66,Humidity(%):72,Cloudiness(%):20,Wind Speed(mph):17.27
+2021-01-19 16:17:02,190 City:hasaki,latitude:21.860903638918515,Temperature(F):22.12,Humidity(%):63,Cloudiness(%):20,Wind Speed(mph):3.44
+2021-01-19 16:17:02,251 City:chuy,latitude:-51.49651197531065,Temperature(F):75.47,Humidity(%):56,Cloudiness(%):0,Wind Speed(mph):9.78
+2021-01-19 16:17:02,347 City:bathsheba,latitude:20.44383791191511,Temperature(F):80.6,Humidity(%):65,Cloudiness(%):20,Wind Speed(mph):23.02
+2021-01-19 16:17:02,421 City:albany,latitude:-54.933750995124676,Temperature(F):37.2,Humidity(%):56,Cloudiness(%):100,Wind Speed(mph):6.46
+2021-01-19 16:17:02,482 City:acajutla,latitude:7.371000545793436,Temperature(F):87.8,Humidity(%):45,Cloudiness(%):20,Wind Speed(mph):3.44
+2021-01-19 16:17:02,564 City:rikitea,latitude:-26.214206674834898,Temperature(F):78.39,Humidity(%):77,Cloudiness(%):32,Wind Speed(mph):16.69
+2021-01-19 16:17:02,627 City:caravelas,latitude:-20.479302780649945,Temperature(F):78.3,Humidity(%):71,Cloudiness(%):0,Wind Speed(mph):7.61
+2021-01-19 16:17:02,703 City:port alfred,latitude:-78.44275778404763,Temperature(F):66.99,Humidity(%):95,Cloudiness(%):29,Wind Speed(mph):5.99
+2021-01-19 16:17:02,753 City:bonthe,latitude:2.144906837216496,Temperature(F):78.04,Humidity(%):79,Cloudiness(%):55,Wind Speed(mph):7.99
+2021-01-19 16:17:02,831 City:port elizabeth,latitude:-47.24620605584517,Temperature(F):68,Humidity(%):88,Cloudiness(%):40,Wind Speed(mph):17.27
+2021-01-19 16:17:02,925 City:cabo san lucas,latitude:11.949957562899357,Temperature(F):72.45,Humidity(%):49,Cloudiness(%):90,Wind Speed(mph):3.44
+2021-01-19 16:17:02,990 City:ushuaia,latitude:-86.51314668352771,Temperature(F):60.8,Humidity(%):48,Cloudiness(%):20,Wind Speed(mph):10.36
+2021-01-19 16:17:03,072 City:arman,latitude:58.906915430292855,Temperature(F):-16.64,Humidity(%):77,Cloudiness(%):91,Wind Speed(mph):11.36
+2021-01-19 16:17:03,137 City:arraial do cabo,latitude:-45.894793545159345,Temperature(F):79.27,Humidity(%):73,Cloudiness(%):0,Wind Speed(mph):16.11
+2021-01-19 16:17:03,202 City:hovd,latitude:45.31076212223013,Temperature(F):13.86,Humidity(%):75,Cloudiness(%):100,Wind Speed(mph):4.92
+2021-01-19 16:17:03,296 City:deep river,latitude:46.89748092594155,Temperature(F):18.3,Humidity(%):79,Cloudiness(%):20,Wind Speed(mph):3.44
+2021-01-19 16:17:03,374 City:adre,latitude:14.280790133372477,Temperature(F):65.71,Humidity(%):26,Cloudiness(%):74,Wind Speed(mph):18.3
+2021-01-19 16:17:03,452 City:vestmannaeyjar,latitude:52.993999035712335,Temperature(F):36.52,Humidity(%):78,Cloudiness(%):0,Wind Speed(mph):19.98
+2021-01-19 16:17:03,515 City:butaritari,latitude:6.788557531778224,Temperature(F):80.13,Humidity(%):81,Cloudiness(%):74,Wind Speed(mph):19.8
+2021-01-19 16:17:03,577 City:qaanaaq,latitude:86.48259944286733,Temperature(F):2.25,Humidity(%):71,Cloudiness(%):99,Wind Speed(mph):9.04
+2021-01-19 16:17:03,640 City:bluff,latitude:-58.27259764742649,Temperature(F):46,Humidity(%):95,Cloudiness(%):97,Wind Speed(mph):13
+2021-01-19 16:17:03,703 City:jamestown,latitude:-16.88875425515029,Temperature(F):27.5,Humidity(%):80,Cloudiness(%):90,Wind Speed(mph):14.97
+2021-01-19 16:17:03,766 City:busselton,latitude:-60.95391173946674,Temperature(F):64,Humidity(%):95,Cloudiness(%):15,Wind Speed(mph):5.55
+2021-01-19 16:17:03,828 City:atuona,latitude:0.8439909759527069,Temperature(F):77.58,Humidity(%):77,Cloudiness(%):26,Wind Speed(mph):11.88
+2021-01-19 16:17:03,891 City:kodiak,latitude:42.55297702824416,Temperature(F):26.6,Humidity(%):68,Cloudiness(%):75,Wind Speed(mph):6.91
+2021-01-19 16:17:03,967 City:chapais,latitude:53.75140831532508,Temperature(F):-0.4,Humidity(%):71,Cloudiness(%):75,Wind Speed(mph):4.61
+2021-01-19 16:17:04,049 City:santa eulalia,latitude:-11.575599440150484,Temperature(F):75.61,Humidity(%):69,Cloudiness(%):0,Wind Speed(mph):16.11
+2021-01-19 16:17:04,110 City:avarua,latitude:-15.578792694400931,Temperature(F):84.2,Humidity(%):74,Cloudiness(%):20,Wind Speed(mph):8.05
+2021-01-19 16:17:04,169 City:yellowknife,latitude:83.68858799113136,Temperature(F):15.8,Humidity(%):92,Cloudiness(%):90,Wind Speed(mph):11.5
+2021-01-19 16:17:04,245 City:tautira,latitude:-20.433920212887458,Temperature(F):87.8,Humidity(%):62,Cloudiness(%):20,Wind Speed(mph):8.05
+2021-01-19 16:17:04,329 City:batagay,latitude:66.18713862107927,Temperature(F):-36,Humidity(%):79,Cloudiness(%):100,Wind Speed(mph):1.36
+2021-01-19 16:17:04,412 City:narrabri,latitude:-30.295329008957083,Temperature(F):64.4,Humidity(%):72,Cloudiness(%):0,Wind Speed(mph):12.66
+2021-01-19 16:17:04,485 City:mataura,latitude:-70.76155126551382,Temperature(F):46,Humidity(%):95,Cloudiness(%):100,Wind Speed(mph):13
+2021-01-19 16:17:04,544 City:punta arenas,latitude:-54.44250802408067,Temperature(F):60.4,Humidity(%):51,Cloudiness(%):0,Wind Speed(mph):9.22
+2021-01-19 16:17:04,688 City:east london,latitude:-47.14839084442922,Temperature(F):72.3,Humidity(%):73,Cloudiness(%):92,Wind Speed(mph):22.62
+2021-01-19 16:17:04,768 City:hue,latitude:17.934996179387127,Temperature(F):60.8,Humidity(%):94,Cloudiness(%):75,Wind Speed(mph):3.44
+2021-01-19 16:17:04,854 City:pendleton,latitude:45.08346060923441,Temperature(F):43.61,Humidity(%):56,Cloudiness(%):1,Wind Speed(mph):3.29
+2021-01-19 16:17:04,921 City:lorengau,latitude:9.549504391216942,Temperature(F):82.71,Humidity(%):73,Cloudiness(%):100,Wind Speed(mph):7.29
+2021-01-19 16:17:05,040 City:sao filipe,latitude:12.264468968754173,Temperature(F):72.81,Humidity(%):66,Cloudiness(%):100,Wind Speed(mph):12.64
+2021-01-19 16:17:05,101 City:walvis bay,latitude:-23.81619651598089,Temperature(F):65.62,Humidity(%):88,Cloudiness(%):86,Wind Speed(mph):4.61
+2021-01-19 16:17:05,172 City:bambous virieux,latitude:-33.08463112682807,Temperature(F):79.36,Humidity(%):94,Cloudiness(%):40,Wind Speed(mph):3.44
+2021-01-19 16:17:05,233 City:tasiilaq,latitude:62.16798994053795,Temperature(F):12.2,Humidity(%):79,Cloudiness(%):30,Wind Speed(mph):4.61
+2021-01-19 16:17:05,294 City:beringovskiy,latitude:59.81809975555919,Temperature(F):-17.81,Humidity(%):87,Cloudiness(%):100,Wind Speed(mph):17.13
+2021-01-19 16:17:05,362 City:havre-saint-pierre,latitude:54.66160114353619,Temperature(F):12.2,Humidity(%):67,Cloudiness(%):40,Wind Speed(mph):13.8
+2021-01-19 16:17:05,428 City:kapaa,latitude:23.246052570666095,Temperature(F):67.44,Humidity(%):100,Cloudiness(%):90,Wind Speed(mph):31.07
+2021-01-19 16:17:05,488 City:saint-philippe,latitude:-31.804496004554927,Temperature(F):77.45,Humidity(%):69,Cloudiness(%):0,Wind Speed(mph):2.3
+2021-01-19 16:17:05,570 City:tuktoyaktuk,latitude:78.3725502214705,Temperature(F):-0.4,Humidity(%):85,Cloudiness(%):75,Wind Speed(mph):18.41
+2021-01-19 16:17:05,694 City:cayenne,latitude:5.366485963264012,Temperature(F):82.4,Humidity(%):69,Cloudiness(%):75,Wind Speed(mph):11.5
+2021-01-19 16:17:05,794 City:hohhot,latitude:42.010835850299,Temperature(F):5,Humidity(%):66,Cloudiness(%):0,Wind Speed(mph):6.71
+2021-01-19 16:17:05,875 City:bukoba,latitude:-1.230005291031361,Temperature(F):68.22,Humidity(%):79,Cloudiness(%):99,Wind Speed(mph):3.87
+2021-01-19 16:17:05,945 City:geraldton,latitude:-27.02770496521972,Temperature(F):75.2,Humidity(%):73,Cloudiness(%):90,Wind Speed(mph):5.75
+2021-01-19 16:17:06,010 City:vikhorevka,latitude:57.211387717364744,Temperature(F):-0.4,Humidity(%):78,Cloudiness(%):100,Wind Speed(mph):4.47
+2021-01-19 16:17:06,070 City:port lincoln,latitude:-48.17968485148127,Temperature(F):63.5,Humidity(%):77,Cloudiness(%):0,Wind Speed(mph):11.03
+2021-01-19 16:17:06,130 City:cidreira,latitude:-55.663641835447,Temperature(F):74.5,Humidity(%):62,Cloudiness(%):0,Wind Speed(mph):12.84
+2021-01-19 16:17:06,178 City:karratha,latitude:-18.370563051838673,Temperature(F):87.01,Humidity(%):61,Cloudiness(%):39,Wind Speed(mph):8.84
+2021-01-19 16:17:06,240 City:hamilton,latitude:46.21125234668676,Temperature(F):43.86,Humidity(%):31,Cloudiness(%):1,Wind Speed(mph):8.05
+2021-01-19 16:17:06,349 City:mahebourg,latitude:-27.82101464866583,Temperature(F):78.8,Humidity(%):94,Cloudiness(%):40,Wind Speed(mph):3.44
+2021-01-19 16:17:06,412 City:hoquiam,latitude:47.64765689562094,Temperature(F):44.2,Humidity(%):87,Cloudiness(%):1,Wind Speed(mph):9.22
+2021-01-19 16:17:06,475 City:vaini,latitude:-58.67915002275672,Temperature(F):84.2,Humidity(%):74,Cloudiness(%):40,Wind Speed(mph):8.05
+2021-01-19 16:17:06,584 City:high level,latitude:58.61131054925511,Temperature(F):23,Humidity(%):100,Cloudiness(%):90,Wind Speed(mph):9.17
+2021-01-19 16:17:06,693 City:ahipara,latitude:-31.044958021614697,Temperature(F):65.77,Humidity(%):62,Cloudiness(%):61,Wind Speed(mph):15.01
+2021-01-19 16:17:06,789 City:touros,latitude:-1.1115556705810263,Temperature(F):80.6,Humidity(%):78,Cloudiness(%):75,Wind Speed(mph):9.22
+2021-01-19 16:17:06,852 City:ostrovnoy,latitude:68.11663299592942,Temperature(F):15.62,Humidity(%):96,Cloudiness(%):100,Wind Speed(mph):23.89
+2021-01-19 16:17:06,915 City:la romana,latitude:17.61097192041163,Temperature(F):82.4,Humidity(%):74,Cloudiness(%):75,Wind Speed(mph):6.91
+2021-01-19 16:17:06,993 City:flinders,latitude:-33.8996890020611,Temperature(F):62.74,Humidity(%):84,Cloudiness(%):65,Wind Speed(mph):1.01
+2021-01-19 16:17:07,056 City:lasa,latitude:31.99034882487784,Temperature(F):27.75,Humidity(%):80,Cloudiness(%):0,Wind Speed(mph):3.44
+2021-01-19 16:17:07,127 City:vao,latitude:-24.22683353408219,Temperature(F):78.69,Humidity(%):82,Cloudiness(%):83,Wind Speed(mph):3.09
+2021-01-19 16:17:07,204 City:salinopolis,latitude:1.341899297573434,Temperature(F):79.43,Humidity(%):81,Cloudiness(%):100,Wind Speed(mph):10.47
+2021-01-19 16:17:07,317 City:srednekolymsk,latitude:66.02197337667641,Temperature(F):-44.41,Humidity(%):79,Cloudiness(%):38,Wind Speed(mph):4.27
+2021-01-19 16:17:07,384 City:san jose,latitude:14.02394569863246,Temperature(F):63.95,Humidity(%):15,Cloudiness(%):20,Wind Speed(mph):11.5
+2021-01-19 16:17:07,521 City:warrnambool,latitude:-42.38039728568947,Temperature(F):50,Humidity(%):94,Cloudiness(%):0,Wind Speed(mph):7.61
+2021-01-19 16:17:07,623 City:chistogorskiy,latitude:54.54627851250936,Temperature(F):-14.3,Humidity(%):89,Cloudiness(%):55,Wind Speed(mph):1.36
+2021-01-19 16:17:07,705 City:chincha alta,latitude:-13.12279181658431,Temperature(F):76.5,Humidity(%):61,Cloudiness(%):0,Wind Speed(mph):24.16
+2021-01-19 16:17:07,785 City:leua,latitude:-13.14880713571523,Temperature(F):35.49,Humidity(%):87,Cloudiness(%):100,Wind Speed(mph):3
+2021-01-19 16:17:07,860 City:shenkursk,latitude:61.64621806115679,Temperature(F):10.89,Humidity(%):96,Cloudiness(%):97,Wind Speed(mph):5.68
+2021-01-19 16:17:07,922 City:taoudenni,latitude:23.313140064932895,Temperature(F):63.18,Humidity(%):26,Cloudiness(%):1,Wind Speed(mph):14.9
+2021-01-19 16:17:08,069 City:amapa,latitude:3.9138423451507265,Temperature(F):75.22,Humidity(%):96,Cloudiness(%):100,Wind Speed(mph):4.74
+2021-01-19 16:17:08,154 City:hermanus,latitude:-69.71293899202277,Temperature(F):66,Humidity(%):79,Cloudiness(%):54,Wind Speed(mph):11.1
+2021-01-19 16:17:08,233 City:constantine,latitude:34.863914940926776,Temperature(F):41,Humidity(%):60,Cloudiness(%):0,Wind Speed(mph):6.91
+2021-01-19 16:17:08,311 City:hobart,latitude:-53.336052223868286,Temperature(F):50.16,Humidity(%):66,Cloudiness(%):20,Wind Speed(mph):9.22
+2021-01-19 16:17:08,389 City:padang,latitude:-9.717590974386482,Temperature(F):71.6,Humidity(%):94,Cloudiness(%):20,Wind Speed(mph):2.3
+2021-01-19 16:17:08,467 City:fonte boa,latitude:-2.1839357517282707,Temperature(F):82.36,Humidity(%):75,Cloudiness(%):55,Wind Speed(mph):4.36
+2021-01-19 16:17:08,546 City:andenes,latitude:73.60430278390518,Temperature(F):28.26,Humidity(%):69,Cloudiness(%):0,Wind Speed(mph):19.57
+2021-01-19 16:17:08,612 City:coquimbo,latitude:-29.19730253924039,Temperature(F):66.2,Humidity(%):63,Cloudiness(%):0,Wind Speed(mph):13.8
+2021-01-19 16:17:08,736 City:yarmouth,latitude:42.12248671882648,Temperature(F):39.06,Humidity(%):52,Cloudiness(%):20,Wind Speed(mph):9.22
+2021-01-19 16:17:08,833 City:santa vitoria do palmar,latitude:-33.85373240446731,Temperature(F):74.82,Humidity(%):58,Cloudiness(%):0,Wind Speed(mph):9.28
+2021-01-19 16:17:08,895 City:sioux lookout,latitude:53.96632789021186,Temperature(F):-2.2,Humidity(%):71,Cloudiness(%):90,Wind Speed(mph):8.05
+2021-01-19 16:17:08,974 City:rio bueno,latitude:-40.63036855017339,Temperature(F):82.4,Humidity(%):36,Cloudiness(%):20,Wind Speed(mph):9.22
+2021-01-19 16:17:09,036 City:castro,latitude:-44.82647337068323,Temperature(F):66.31,Humidity(%):97,Cloudiness(%):100,Wind Speed(mph):7.14
+2021-01-19 16:17:09,115 City:le port,latitude:-20.130451512621093,Temperature(F):72.99,Humidity(%):83,Cloudiness(%):0,Wind Speed(mph):3.44
+2021-01-19 16:17:09,209 City:kawerau,latitude:-37.99011123007299,Temperature(F):66.51,Humidity(%):63,Cloudiness(%):21,Wind Speed(mph):7
+2021-01-19 16:17:09,287 City:shalya,latitude:57.119067169426245,Temperature(F):9.59,Humidity(%):95,Cloudiness(%):100,Wind Speed(mph):11.36
+2021-01-19 16:17:09,389 City:suicheng,latitude:21.455631871485465,Temperature(F):35.74,Humidity(%):93,Cloudiness(%):0,Wind Speed(mph):8.1
+2021-01-19 16:17:09,472 City:margate,latitude:-41.56503227370055,Temperature(F):48.42,Humidity(%):77,Cloudiness(%):100,Wind Speed(mph):8.99
+2021-01-19 16:17:09,565 City:honningsvag,latitude:80.01731760466609,Temperature(F):24.8,Humidity(%):86,Cloudiness(%):75,Wind Speed(mph):4.61
+2021-01-19 16:17:09,628 City:clyde river,latitude:69.55201421477295,Temperature(F):3.2,Humidity(%):85,Cloudiness(%):90,Wind Speed(mph):11.5
+2021-01-19 16:17:09,706 City:vicuna,latitude:-29.631737650891885,Temperature(F):84,Humidity(%):27,Cloudiness(%):0,Wind Speed(mph):9.44
+2021-01-19 16:17:09,769 City:airai,latitude:18.084171133632097,Temperature(F):61.12,Humidity(%):100,Cloudiness(%):100,Wind Speed(mph):3.44
+2021-01-19 16:17:09,831 City:lebu,latitude:-35.22611294782903,Temperature(F):64.06,Humidity(%):72,Cloudiness(%):0,Wind Speed(mph):22.08
+2021-01-19 16:17:09,902 City:longyearbyen,latitude:87.47099255886835,Temperature(F):19.4,Humidity(%):63,Cloudiness(%):75,Wind Speed(mph):13.8
+2021-01-19 16:17:09,964 City:kaniama,latitude:-7.892266136022926,Temperature(F):66.24,Humidity(%):93,Cloudiness(%):99,Wind Speed(mph):3.04
+2021-01-19 16:17:10,090 City:batagay-alyta,latitude:69.9555522365911,Temperature(F):-37.95,Humidity(%):80,Cloudiness(%):87,Wind Speed(mph):1.74
+2021-01-19 16:17:10,188 City:hilo,latitude:27.344450107952753,Temperature(F):73.63,Humidity(%):78,Cloudiness(%):90,Wind Speed(mph):9.22
+2021-01-19 16:17:10,256 City:alice springs,latitude:-25.221559257225152,Temperature(F):62.6,Humidity(%):39,Cloudiness(%):46,Wind Speed(mph):8.16
+2021-01-19 16:17:10,316 City:ponta do sol,latitude:33.22259592081686,Temperature(F):56.19,Humidity(%):65,Cloudiness(%):96,Wind Speed(mph):7
+2021-01-19 16:17:10,376 City:yar-sale,latitude:75.43329754405309,Temperature(F):-28.25,Humidity(%):84,Cloudiness(%):64,Wind Speed(mph):5.48
+2021-01-19 16:17:10,435 City:leningradskiy,latitude:74.12228069677519,Temperature(F):-16.62,Humidity(%):87,Cloudiness(%):100,Wind Speed(mph):13.89
+2021-01-19 16:17:10,500 City:college,latitude:71.4669445642391,Temperature(F):24.17,Humidity(%):68,Cloudiness(%):75,Wind Speed(mph):6.91
+2021-01-19 16:17:10,588 City:beyla,latitude:9.219837924226155,Temperature(F):74.71,Humidity(%):20,Cloudiness(%):0,Wind Speed(mph):2.28
+2021-01-19 16:17:10,653 City:half moon bay,latitude:30.762685376594362,Temperature(F):61.65,Humidity(%):17,Cloudiness(%):1,Wind Speed(mph):13.8
+2021-01-19 16:17:10,739 City:darab,latitude:29.599846852309184,Temperature(F):48.61,Humidity(%):43,Cloudiness(%):78,Wind Speed(mph):1.36
+2021-01-19 16:17:10,846 City:banfora,latitude:10.774082464762671,Temperature(F):77.63,Humidity(%):17,Cloudiness(%):0,Wind Speed(mph):4.72
+2021-01-19 16:17:10,956 City:verkhniy mamon,latitude:50.35532779753947,Temperature(F):-3.46,Humidity(%):92,Cloudiness(%):79,Wind Speed(mph):4.03
+2021-01-19 16:17:11,034 City:natal,latitude:-2.796583556153678,Temperature(F):81.52,Humidity(%):74,Cloudiness(%):75,Wind Speed(mph):13.8
+2021-01-19 16:17:11,097 City:miri,latitude:7.4707749071593526,Temperature(F):75.11,Humidity(%):100,Cloudiness(%):40,Wind Speed(mph):3.44
+2021-01-19 16:17:11,206 City:ekhabi,latitude:53.60924137541119,Temperature(F):-14.17,Humidity(%):81,Cloudiness(%):99,Wind Speed(mph):28.36
+2021-01-19 16:17:11,300 City:hammerfest,latitude:71.83875013386458,Temperature(F):17.6,Humidity(%):67,Cloudiness(%):0,Wind Speed(mph):9.22
+2021-01-19 16:17:11,487 City:mezhova,latitude:47.97494275278979,Temperature(F):1.27,Humidity(%):95,Cloudiness(%):85,Wind Speed(mph):5.35
+2021-01-19 16:17:11,643 City:sault sainte marie,latitude:47.09885311955648,Temperature(F):19.4,Humidity(%):68,Cloudiness(%):90,Wind Speed(mph):14.97
+2021-01-19 16:17:11,706 City:barrow,latitude:85.37624749891441,Temperature(F):-0.4,Humidity(%):78,Cloudiness(%):90,Wind Speed(mph):25.32
+2021-01-19 16:17:11,784 City:ahuas,latitude:15.325680043517153,Temperature(F):81.28,Humidity(%):71,Cloudiness(%):1,Wind Speed(mph):8.72
+2021-01-19 16:17:11,846 City:severo-kurilsk,latitude:46.065203778092524,Temperature(F):13.68,Humidity(%):85,Cloudiness(%):92,Wind Speed(mph):22.03
+2021-01-19 16:17:12,126 City:japura,latitude:-1.9047408094078406,Temperature(F):71.06,Humidity(%):93,Cloudiness(%):100,Wind Speed(mph):1.43
+2021-01-19 16:17:12,192 City:new norfolk,latitude:-56.03202409090936,Temperature(F):47.46,Humidity(%):65,Cloudiness(%):0,Wind Speed(mph):2.98
+2021-01-19 16:17:12,269 City:fuerte olimpo,latitude:-20.157189451704625,Temperature(F):76.78,Humidity(%):77,Cloudiness(%):70,Wind Speed(mph):5.26
+2021-01-19 16:17:12,332 City:tiksi,latitude:83.9621022783987,Temperature(F):-24.48,Humidity(%):86,Cloudiness(%):100,Wind Speed(mph):3.15
+2021-01-19 16:17:12,497 City:nichinan,latitude:31.0137114613555,Temperature(F):33.39,Humidity(%):93,Cloudiness(%):0,Wind Speed(mph):3.44
+2021-01-19 16:17:12,576 City:sakakah,latitude:29.700226655118158,Temperature(F):48.2,Humidity(%):49,Cloudiness(%):20,Wind Speed(mph):2.42
+2021-01-19 16:17:12,644 City:qinhuangdao,latitude:40.119141226748354,Temperature(F):28.35,Humidity(%):97,Cloudiness(%):98,Wind Speed(mph):5.44
+2021-01-19 16:17:12,705 City:lagoa,latitude:49.91100400260805,Temperature(F):59.04,Humidity(%):70,Cloudiness(%):100,Wind Speed(mph):25.52
+2021-01-19 16:17:12,785 City:chake chake,latitude:-5.518124238008184,Temperature(F):79.92,Humidity(%):74,Cloudiness(%):100,Wind Speed(mph):11.56
+2021-01-19 16:17:12,847 City:liverpool,latitude:38.24188516059556,Temperature(F):50.34,Humidity(%):100,Cloudiness(%):75,Wind Speed(mph):18.41
+2021-01-19 16:17:12,910 City:bilma,latitude:20.77047993471514,Temperature(F):63.61,Humidity(%):27,Cloudiness(%):0,Wind Speed(mph):11.05
+2021-01-19 16:17:13,004 City:sept-iles,latitude:52.45143152548633,Temperature(F):9.82,Humidity(%):61,Cloudiness(%):27,Wind Speed(mph):12.66
+2021-01-19 16:17:13,066 City:dikson,latitude:89.32845997079838,Temperature(F):-20.9,Humidity(%):89,Cloudiness(%):91,Wind Speed(mph):9.4
+2021-01-19 16:17:13,176 City:carlsbad,latitude:31.952636867861372,Temperature(F):67.44,Humidity(%):18,Cloudiness(%):1,Wind Speed(mph):12.66
+2021-01-19 16:17:13,254 City:nizhniy tsasuchey,latitude:49.81558876061453,Temperature(F):-0.96,Humidity(%):91,Cloudiness(%):100,Wind Speed(mph):1.74
+2021-01-19 16:17:13,348 City:shelkovskaya,latitude:43.558965216302994,Temperature(F):24.8,Humidity(%):93,Cloudiness(%):5,Wind Speed(mph):2.24
+2021-01-19 16:17:13,441 City:vanimo,latitude:1.7439733900371834,Temperature(F):77.29,Humidity(%):83,Cloudiness(%):99,Wind Speed(mph):1.77
+2021-01-19 16:17:13,566 City:vendome,latitude:47.81113034157789,Temperature(F):42.69,Humidity(%):87,Cloudiness(%):100,Wind Speed(mph):16.11
+2021-01-19 16:17:13,628 City:rincon,latitude:13.98680507839778,Temperature(F):63.21,Humidity(%):24,Cloudiness(%):20,Wind Speed(mph):8.05
+2021-01-19 16:17:13,690 City:souillac,latitude:-46.35775431691806,Temperature(F):78.8,Humidity(%):94,Cloudiness(%):40,Wind Speed(mph):3.44
+2021-01-19 16:17:13,753 City:bredasdorp,latitude:-65.3815237032968,Temperature(F):66.2,Humidity(%):68,Cloudiness(%):63,Wind Speed(mph):6.91
+2021-01-19 16:17:13,816 City:cherskiy,latitude:79.82680901326884,Temperature(F):-41.28,Humidity(%):81,Cloudiness(%):100,Wind Speed(mph):7.09
+2021-01-19 16:17:13,878 City:okhotsk,latitude:56.89739085051187,Temperature(F):-3.84,Humidity(%):84,Cloudiness(%):100,Wind Speed(mph):8.03
+2021-01-19 16:17:13,941 City:mar del plata,latitude:-68.13157019397204,Temperature(F):73.4,Humidity(%):64,Cloudiness(%):0,Wind Speed(mph):10.36
+2021-01-19 16:17:14,019 City:mehamn,latitude:79.28679510896706,Temperature(F):23,Humidity(%):86,Cloudiness(%):90,Wind Speed(mph):8.05
+2021-01-19 16:17:14,081 City:thompson,latitude:67.38957397273182,Temperature(F):-5.8,Humidity(%):84,Cloudiness(%):90,Wind Speed(mph):5.75
+2021-01-19 16:17:14,144 City:bandarbeyla,latitude:9.271569214736331,Temperature(F):73.9,Humidity(%):78,Cloudiness(%):100,Wind Speed(mph):20.4
+2021-01-19 16:17:14,238 City:kaifeng,latitude:34.53271985274935,Temperature(F):26.6,Humidity(%):68,Cloudiness(%):36,Wind Speed(mph):4.47
+2021-01-19 16:17:14,316 City:fortrose,latitude:57.52940637690901,Temperature(F):27.82,Humidity(%):100,Cloudiness(%):20,Wind Speed(mph):1.59
+2021-01-19 16:17:14,378 City:fairbanks,latitude:70.52141056263412,Temperature(F):24.1,Humidity(%):80,Cloudiness(%):90,Wind Speed(mph):12.66
+2021-01-19 16:17:14,441 City:torbay,latitude:44.99524438193299,Temperature(F):33.91,Humidity(%):86,Cloudiness(%):90,Wind Speed(mph):17.27
+2021-01-19 16:17:14,503 City:lompoc,latitude:31.493264049046203,Temperature(F):62.67,Humidity(%):45,Cloudiness(%):48,Wind Speed(mph):13.8
+2021-01-19 16:17:14,644 City:banda aceh,latitude:5.549194849475242,Temperature(F):77.05,Humidity(%):83,Cloudiness(%):76,Wind Speed(mph):9.15
+2021-01-19 16:17:14,707 City:cartagena,latitude:11.883544013373793,Temperature(F):87.8,Humidity(%):66,Cloudiness(%):0,Wind Speed(mph):16.11
+2021-01-19 16:17:14,847 City:eyl,latitude:5.7361787570194736,Temperature(F):75.06,Humidity(%):68,Cloudiness(%):14,Wind Speed(mph):16.96
+2021-01-19 16:17:14,910 City:bilibino,latitude:65.60097181584896,Temperature(F):-44.21,Humidity(%):75,Cloudiness(%):51,Wind Speed(mph):1.23
+2021-01-19 16:17:14,972 City:mount isa,latitude:-19.0212938831056,Temperature(F):78.8,Humidity(%):73,Cloudiness(%):60,Wind Speed(mph):3.2
+2021-01-19 16:17:15,081 City:pundaguitan,latitude:5.784091797091534,Temperature(F):82.09,Humidity(%):77,Cloudiness(%):100,Wind Speed(mph):5.82
+2021-01-19 16:17:15,213 City:peru,latitude:40.61741755884694,Temperature(F):34.12,Humidity(%):64,Cloudiness(%):90,Wind Speed(mph):11.5
+2021-01-19 16:17:15,275 City:provideniya,latitude:61.8954491124056,Temperature(F):-2.2,Humidity(%):78,Cloudiness(%):90,Wind Speed(mph):4.47
+2021-01-19 16:17:15,354 City:adelanto,latitude:34.78932590128289,Temperature(F):51.57,Humidity(%):24,Cloudiness(%):94,Wind Speed(mph):13
+2021-01-19 16:17:15,417 City:beidao,latitude:34.113510234510784,Temperature(F):27,Humidity(%):87,Cloudiness(%):100,Wind Speed(mph):8.01
+2021-01-19 16:17:15,495 City:coihaique,latitude:-48.83571941668303,Temperature(F):73.4,Humidity(%):35,Cloudiness(%):75,Wind Speed(mph):9.22
+2021-01-19 16:17:15,573 City:yeppoon,latitude:-20.01943131526363,Temperature(F):78.8,Humidity(%):78,Cloudiness(%):75,Wind Speed(mph):6.91
+2021-01-19 16:17:15,855 City:buraydah,latitude:23.93613851039747,Temperature(F):57.2,Humidity(%):58,Cloudiness(%):0,Wind Speed(mph):9.22
+2021-01-19 16:17:15,933 City:morros,latitude:-8.894151649949265,Temperature(F):81.99,Humidity(%):62,Cloudiness(%):68,Wind Speed(mph):2.42
+2021-01-19 16:17:15,995 City:otavalo,latitude:0.24705198592553756,Temperature(F):69.8,Humidity(%):52,Cloudiness(%):40,Wind Speed(mph):17.27
+2021-01-19 16:17:16,058 City:erzin,latitude:49.68981293066801,Temperature(F):41,Humidity(%):56,Cloudiness(%):60,Wind Speed(mph):1.99
+2021-01-19 16:17:16,136 City:les cayes,latitude:15.573470269547144,Temperature(F):79.75,Humidity(%):74,Cloudiness(%):100,Wind Speed(mph):3.67
+2021-01-19 16:17:16,198 City:portland,latitude:-44.64752208035793,Temperature(F):49.8,Humidity(%):61,Cloudiness(%):75,Wind Speed(mph):3.44
+2021-01-19 16:17:16,276 City:kapoeta,latitude:4.9210383250857035,Temperature(F):81.66,Humidity(%):31,Cloudiness(%):0,Wind Speed(mph):4.61
+2021-01-19 16:17:16,386 City:ewa beach,latitude:13.56420854469414,Temperature(F):76.33,Humidity(%):54,Cloudiness(%):40,Wind Speed(mph):14.97
+2021-01-19 16:17:16,464 City:christchurch,latitude:-50.44736043381481,Temperature(F):60.57,Humidity(%):38,Cloudiness(%):100,Wind Speed(mph):12.66
+2021-01-19 16:17:16,511 City:makokou,latitude:0.05944465567844759,Temperature(F):71.98,Humidity(%):93,Cloudiness(%):100,Wind Speed(mph):3.24
+2021-01-19 16:17:16,589 City:obihiro,latitude:42.51585867353131,Temperature(F):4.89,Humidity(%):87,Cloudiness(%):32,Wind Speed(mph):3.85
+2021-01-19 16:17:16,761 City:grindavik,latitude:62.06697950051489,Temperature(F):32,Humidity(%):80,Cloudiness(%):20,Wind Speed(mph):25.32
+2021-01-19 16:17:16,855 City:paamiut,latitude:57.55656319704855,Temperature(F):29.98,Humidity(%):88,Cloudiness(%):71,Wind Speed(mph):13.82
+2021-01-19 16:17:16,917 City:jiangyou,latitude:32.740641497506275,Temperature(F):44.83,Humidity(%):59,Cloudiness(%):97,Wind Speed(mph):0.89
+2021-01-19 16:17:17,012 City:fukue,latitude:33.99510027508887,Temperature(F):47.03,Humidity(%):60,Cloudiness(%):4,Wind Speed(mph):8.21
+2021-01-19 16:17:17,074 City:fortuna,latitude:36.871515011810175,Temperature(F):61.18,Humidity(%):36,Cloudiness(%):1,Wind Speed(mph):9.22
+2021-01-19 16:17:17,183 City:san ramon,latitude:-13.737692112480332,Temperature(F):61.92,Humidity(%):16,Cloudiness(%):1,Wind Speed(mph):17.27
+2021-01-19 16:17:17,262 City:vysokogornyy,latitude:49.26241447789212,Temperature(F):-27.26,Humidity(%):83,Cloudiness(%):97,Wind Speed(mph):5.03
+2021-01-19 16:17:17,340 City:dhidhdhoo,latitude:7.4494091785734895,Temperature(F):81.09,Humidity(%):65,Cloudiness(%):0,Wind Speed(mph):4.23
+2021-01-19 16:17:17,416 City:sao miguel do araguaia,latitude:-12.947545208731825,Temperature(F):81.81,Humidity(%):75,Cloudiness(%):99,Wind Speed(mph):1.66
+2021-01-19 16:17:17,698 City:darovskoy,latitude:59.295297638896926,Temperature(F):-8.97,Humidity(%):91,Cloudiness(%):79,Wind Speed(mph):1.74
+2021-01-19 16:17:17,761 City:kavieng,latitude:8.775543996067341,Temperature(F):81.12,Humidity(%):78,Cloudiness(%):93,Wind Speed(mph):13.18
+2021-01-19 16:17:17,823 City:the valley,latitude:22.074691451667206,Temperature(F):79.92,Humidity(%):69,Cloudiness(%):40,Wind Speed(mph):13.8
+2021-01-19 16:17:17,917 City:moose factory,latitude:51.77481369480577,Temperature(F):-4,Humidity(%):71,Cloudiness(%):90,Wind Speed(mph):6.91
+2021-01-19 16:17:17,997 City:kloulklubed,latitude:4.760198821131141,Temperature(F):80.6,Humidity(%):89,Cloudiness(%):90,Wind Speed(mph):8.05
+2021-01-19 16:17:18,075 City:basco,latitude:19.645956341776753,Temperature(F):75.16,Humidity(%):82,Cloudiness(%):95,Wind Speed(mph):28.32
+2021-01-19 16:17:18,196 City:kuusamo,latitude:66.223943562031,Temperature(F):10.4,Humidity(%):85,Cloudiness(%):0,Wind Speed(mph):3.44
+2021-01-19 16:17:18,295 City:hobyo,latitude:4.22085244015345,Temperature(F):77.23,Humidity(%):78,Cloudiness(%):46,Wind Speed(mph):18.41
+2021-01-19 16:17:18,368 City:axim,latitude:1.3413585987321568,Temperature(F):79.11,Humidity(%):86,Cloudiness(%):56,Wind Speed(mph):8.95
+2021-01-19 16:17:18,431 City:piacabucu,latitude:-10.900006935440771,Temperature(F):78.98,Humidity(%):77,Cloudiness(%):98,Wind Speed(mph):10.2
+2021-01-19 16:17:18,500 City:trenggalek,latitude:-9.236628435976968,Temperature(F):74.14,Humidity(%):84,Cloudiness(%):100,Wind Speed(mph):2.19
+2021-01-19 16:17:18,595 City:jinchang,latitude:38.02859331798089,Temperature(F):22.59,Humidity(%):56,Cloudiness(%):49,Wind Speed(mph):2.35
+2021-01-19 16:17:18,667 City:esperance,latitude:-31.8881706503021,Temperature(F):69.8,Humidity(%):56,Cloudiness(%):38,Wind Speed(mph):14.97
+2021-01-19 16:17:18,778 City:vila velha,latitude:-22.380808215181574,Temperature(F):81.66,Humidity(%):61,Cloudiness(%):0,Wind Speed(mph):14.97
+2021-01-19 16:17:18,856 City:hithadhoo,latitude:-6.125098409293074,Temperature(F):80.8,Humidity(%):71,Cloudiness(%):10,Wind Speed(mph):10.65
+2021-01-19 16:17:18,935 City:jiazi,latitude:22.518815229287753,Temperature(F):58.77,Humidity(%):69,Cloudiness(%):80,Wind Speed(mph):12.73
+2021-01-19 16:17:19,013 City:kharan,latitude:28.772906178136907,Temperature(F):56.73,Humidity(%):48,Cloudiness(%):0,Wind Speed(mph):2.59
+2021-01-19 16:17:19,167 City:benghazi,latitude:33.13478297376598,Temperature(F):55.62,Humidity(%):58,Cloudiness(%):2,Wind Speed(mph):14.27
+2021-01-19 16:17:19,252 City:america dourada,latitude:-10.78346609567825,Temperature(F):79.81,Humidity(%):41,Cloudiness(%):9,Wind Speed(mph):8.39
+2021-01-19 16:17:19,313 City:wexford,latitude:51.74141385613137,Temperature(F):49.42,Humidity(%):100,Cloudiness(%):90,Wind Speed(mph):20.71
+2021-01-19 16:17:19,395 City:la ronge,latitude:64.5930116099704,Temperature(F):21.2,Humidity(%):86,Cloudiness(%):100,Wind Speed(mph):10.36
+2021-01-19 16:17:19,472 City:nivala,latitude:64.13845671821352,Temperature(F):23,Humidity(%):94,Cloudiness(%):98,Wind Speed(mph):3
+2021-01-19 16:17:19,547 City:ugoofaaru,latitude:5.956006170350221,Temperature(F):81.73,Humidity(%):65,Cloudiness(%):0,Wind Speed(mph):6.6
+2021-01-19 16:17:19,609 City:urucara,latitude:-2.1979125370380643,Temperature(F):81.32,Humidity(%):91,Cloudiness(%):98,Wind Speed(mph):0.6
+2021-01-19 16:17:19,666 City:carnarvon,latitude:-22.40816463902091,Temperature(F):77,Humidity(%):88,Cloudiness(%):0,Wind Speed(mph):14.97
+2021-01-19 16:17:19,765 City:ano kastritsion,latitude:38.2892606306591,Temperature(F):32.13,Humidity(%):80,Cloudiness(%):0,Wind Speed(mph):1.99
+2021-01-19 16:17:19,838 City:barcelos,latitude:-0.942133367856357,Temperature(F):52.43,Humidity(%):67,Cloudiness(%):75,Wind Speed(mph):26.46
+2021-01-19 16:17:19,917 City:chokwe,latitude:-23.265910027293756,Temperature(F):74.19,Humidity(%):87,Cloudiness(%):34,Wind Speed(mph):4.54
+2021-01-19 16:17:19,976 City:tessalit,latitude:20.505044811044115,Temperature(F):65.08,Humidity(%):22,Cloudiness(%):19,Wind Speed(mph):13.49
+2021-01-19 16:17:20,058 City:povenets,latitude:62.89700850661973,Temperature(F):13.35,Humidity(%):96,Cloudiness(%):77,Wind Speed(mph):4.05
+2021-01-19 16:17:20,240 City:buwenge,latitude:0.7479876079897707,Temperature(F):67.23,Humidity(%):80,Cloudiness(%):67,Wind Speed(mph):2.13
+2021-01-19 16:17:20,318 City:petropavlovsk-kamchatskiy,latitude:50.26870880713099,Temperature(F):19.4,Humidity(%):53,Cloudiness(%):40,Wind Speed(mph):6.71
+2021-01-19 16:17:20,412 City:uruzgan,latitude:33.35793811742087,Temperature(F):40.96,Humidity(%):62,Cloudiness(%):0,Wind Speed(mph):7.92
+2021-01-19 16:17:20,497 City:evensk,latitude:63.86696881577717,Temperature(F):-13.61,Humidity(%):76,Cloudiness(%):0,Wind Speed(mph):11.18
+2021-01-19 16:17:20,575 City:oranjestad,latitude:15.00020388533342,Temperature(F):82.4,Humidity(%):69,Cloudiness(%):20,Wind Speed(mph):20.71
+2021-01-19 16:17:20,637 City:chokurdakh,latitude:83.94550009897887,Temperature(F):-37.23,Humidity(%):83,Cloudiness(%):41,Wind Speed(mph):3.71
+2021-01-19 16:17:20,747 City:mpwapwa,latitude:-6.323259947366495,Temperature(F):66.56,Humidity(%):90,Cloudiness(%):100,Wind Speed(mph):2.28
+2021-01-19 16:17:20,903 City:mareeba,latitude:-16.329978606328496,Temperature(F):76.51,Humidity(%):94,Cloudiness(%):90,Wind Speed(mph):10.36
+2021-01-19 16:17:20,965 City:tezu,latitude:26.95404842151919,Temperature(F):56.44,Humidity(%):72,Cloudiness(%):92,Wind Speed(mph):2.44
+2021-01-19 16:17:21,041 City:narsaq,latitude:86.72562814501,Temperature(F):44.6,Humidity(%):29,Cloudiness(%):32,Wind Speed(mph):24.16
+2021-01-19 16:17:21,119 City:fort saint james,latitude:54.841330684831604,Temperature(F):38.23,Humidity(%):77,Cloudiness(%):78,Wind Speed(mph):14.45
+2021-01-19 16:17:21,198 City:fuerte,latitude:17.498447301246102,Temperature(F):76.62,Humidity(%):74,Cloudiness(%):100,Wind Speed(mph):8.9
+2021-01-19 16:17:21,260 City:qui nhon,latitude:13.984467035290464,Temperature(F):65.03,Humidity(%):84,Cloudiness(%):33,Wind Speed(mph):8.05
+2021-01-19 16:17:21,354 City:srandakan,latitude:-16.065733192938396,Temperature(F):76.19,Humidity(%):86,Cloudiness(%):100,Wind Speed(mph):4.92
+2021-01-19 16:17:21,416 City:khatanga,latitude:78.76358385463021,Temperature(F):-27.74,Humidity(%):85,Cloudiness(%):100,Wind Speed(mph):4.5
+2021-01-19 16:17:21,495 City:itarema,latitude:8.889150083628039,Temperature(F):80.74,Humidity(%):75,Cloudiness(%):100,Wind Speed(mph):13.87
+2021-01-19 16:17:21,542 City:chartres,latitude:48.30665198734266,Temperature(F):40.17,Humidity(%):90,Cloudiness(%):100,Wind Speed(mph):7
+2021-01-19 16:17:21,636 City:northam,latitude:-30.138656380510305,Temperature(F):51.98,Humidity(%):95,Cloudiness(%):100,Wind Speed(mph):11.99
+2021-01-19 16:17:21,714 City:platanos,latitude:35.595131714218724,Temperature(F):31.6,Humidity(%):80,Cloudiness(%):0,Wind Speed(mph):6.91
+2021-01-19 16:17:21,808 City:ust-karsk,latitude:52.37005001991437,Temperature(F):-5.71,Humidity(%):88,Cloudiness(%):100,Wind Speed(mph):1.12
+2021-01-19 16:17:21,886 City:aranos,latitude:-24.625708785497693,Temperature(F):81.05,Humidity(%):43,Cloudiness(%):53,Wind Speed(mph):4.34
+2021-01-19 16:17:21,948 City:faya,latitude:22.719311595845838,Temperature(F):55.38,Humidity(%):94,Cloudiness(%):0,Wind Speed(mph):8.05
+2021-01-19 16:17:22,011 City:silveira,latitude:39.13831430831635,Temperature(F):55.13,Humidity(%):84,Cloudiness(%):100,Wind Speed(mph):21.99
+2021-01-19 16:17:22,062 City:sosnogorsk,latitude:63.3714998848526,Temperature(F):1.15,Humidity(%):93,Cloudiness(%):100,Wind Speed(mph):7.54
+2021-01-19 16:17:22,141 City:otjimbingwe,latitude:-22.89671245400848,Temperature(F):78.35,Humidity(%):37,Cloudiness(%):91,Wind Speed(mph):5.66
+2021-01-19 16:17:22,203 City:ahuimanu,latitude:32.11499072028029,Temperature(F):77.81,Humidity(%):65,Cloudiness(%):90,Wind Speed(mph):11.5
+2021-01-19 16:17:22,266 City:iqaluit,latitude:64.71951106224714,Temperature(F):30.09,Humidity(%):93,Cloudiness(%):90,Wind Speed(mph):2.3
+2021-01-19 16:17:22,344 City:pictou,latitude:45.760562429103686,Temperature(F):26.6,Humidity(%):63,Cloudiness(%):17,Wind Speed(mph):26.46
+2021-01-19 16:17:22,422 City:camocim,latitude:1.9849300076356116,Temperature(F):78.8,Humidity(%):83,Cloudiness(%):100,Wind Speed(mph):11.81
+2021-01-19 16:17:22,500 City:saldanha,latitude:-32.50440217222487,Temperature(F):66.2,Humidity(%):72,Cloudiness(%):0,Wind Speed(mph):14.97
+2021-01-19 16:17:22,563 City:tineo,latitude:43.39824766309138,Temperature(F):53.6,Humidity(%):47,Cloudiness(%):0,Wind Speed(mph):4.61
+2021-01-19 16:17:22,625 City:acapulco,latitude:9.306506169419237,Temperature(F):84.2,Humidity(%):70,Cloudiness(%):90,Wind Speed(mph):6.91
+2021-01-19 16:17:22,703 City:zaltan,latitude:33.66359388049429,Temperature(F):55,Humidity(%):68,Cloudiness(%):100,Wind Speed(mph):6.58
+2021-01-19 16:17:22,765 City:alpena,latitude:45.03196590645928,Temperature(F):24.91,Humidity(%):86,Cloudiness(%):90,Wind Speed(mph):6.91
+2021-01-19 16:17:22,828 City:tjome,latitude:58.773026008016075,Temperature(F):31.37,Humidity(%):100,Cloudiness(%):90,Wind Speed(mph):5.75
+2021-01-19 16:17:22,890 City:vila franca do campo,latitude:34.850194031851174,Temperature(F):58.48,Humidity(%):72,Cloudiness(%):40,Wind Speed(mph):18.41
+2021-01-19 16:17:22,984 City:neuquen,latitude:-40.154262936291104,Temperature(F):96.8,Humidity(%):19,Cloudiness(%):0,Wind Speed(mph):3.44
+2021-01-19 16:17:23,094 City:feicheng,latitude:35.13597969878765,Temperature(F):31.23,Humidity(%):98,Cloudiness(%):42,Wind Speed(mph):4.88
+2021-01-19 16:17:23,226 City:tiarei,latitude:-15.140960595433967,Temperature(F):87.8,Humidity(%):62,Cloudiness(%):20,Wind Speed(mph):8.05
+2021-01-19 16:17:23,285 City:necochea,latitude:-41.23635885117402,Temperature(F):74.35,Humidity(%):53,Cloudiness(%):0,Wind Speed(mph):17.07
+2021-01-19 16:17:23,387 City:port-gentil,latitude:-1.9738113178334515,Temperature(F):80.6,Humidity(%):83,Cloudiness(%):40,Wind Speed(mph):3.44
+2021-01-19 16:17:23,453 City:harlingen,latitude:53.71935979601028,Temperature(F):75.7,Humidity(%):69,Cloudiness(%):90,Wind Speed(mph):21.85
+2021-01-19 16:17:23,513 City:popondetta,latitude:-8.684751672573896,Temperature(F):78.37,Humidity(%):83,Cloudiness(%):58,Wind Speed(mph):2.06
+2021-01-19 16:17:23,609 City:bemidji,latitude:47.38126625218305,Temperature(F):4.06,Humidity(%):72,Cloudiness(%):1,Wind Speed(mph):11.5
+2021-01-19 16:17:23,700 City:gwanda,latitude:-20.642209480366247,Temperature(F):63.68,Humidity(%):92,Cloudiness(%):78,Wind Speed(mph):5.75
+2021-01-19 16:17:23,770 City:brigantine,latitude:38.87198709780964,Temperature(F):44.53,Humidity(%):36,Cloudiness(%):1,Wind Speed(mph):17.27
+2021-01-19 16:17:23,826 City:salalah,latitude:12.848815611439889,Temperature(F):69.8,Humidity(%):43,Cloudiness(%):0,Wind Speed(mph):4.61
+2021-01-19 16:17:23,959 City:ostersund,latitude:64.07806507274796,Temperature(F):6.01,Humidity(%):92,Cloudiness(%):90,Wind Speed(mph):2.3
+2021-01-19 16:17:24,038 City:auki,latitude:-5.626919420241421,Temperature(F):81.79,Humidity(%):76,Cloudiness(%):99,Wind Speed(mph):3.85
+2021-01-19 16:17:24,117 City:gisborne,latitude:-40.62589568518808,Temperature(F):66.49,Humidity(%):48,Cloudiness(%):42,Wind Speed(mph):9.46
+2021-01-19 16:17:24,173 City:nanortalik,latitude:51.33411102553586,Temperature(F):27.48,Humidity(%):85,Cloudiness(%):35,Wind Speed(mph):13.8
+2021-01-19 16:17:24,251 City:shirokiy,latitude:63.8882137098355,Temperature(F):-20.2,Humidity(%):86,Cloudiness(%):20,Wind Speed(mph):7.05
+2021-01-19 16:17:24,337 City:birjand,latitude:31.4830903916059,Temperature(F):32,Humidity(%):32,Cloudiness(%):0,Wind Speed(mph):6.33
+2021-01-19 16:17:24,399 City:victoria,latitude:-2.879386515376268,Temperature(F):60.12,Humidity(%):72,Cloudiness(%):99,Wind Speed(mph):1.99
+2021-01-19 16:17:24,477 City:marawi,latitude:19.581893785839625,Temperature(F):73.99,Humidity(%):97,Cloudiness(%):96,Wind Speed(mph):5.01
+2021-01-19 16:17:24,550 City:tuatapere,latitude:-52.812535627519495,Temperature(F):46,Humidity(%):95,Cloudiness(%):100,Wind Speed(mph):13
+2021-01-19 16:17:24,612 City:kruisfontein,latitude:-35.889910647580585,Temperature(F):68,Humidity(%):80,Cloudiness(%):8,Wind Speed(mph):3
+2021-01-19 16:17:24,675 City:laguna,latitude:-41.20283591675593,Temperature(F):63.54,Humidity(%):17,Cloudiness(%):1,Wind Speed(mph):16.11
+2021-01-19 16:17:24,768 City:bowen,latitude:-16.650575673395494,Temperature(F):71.6,Humidity(%):94,Cloudiness(%):75,Wind Speed(mph):5.75
+2021-01-19 16:17:24,832 City:ndago,latitude:-4.857695374453044,Temperature(F):63.39,Humidity(%):95,Cloudiness(%):100,Wind Speed(mph):2.68
+2021-01-19 16:17:24,910 City:paralimni,latitude:34.39951736438137,Temperature(F):44.8,Humidity(%):81,Cloudiness(%):20,Wind Speed(mph):4.61
+2021-01-19 16:17:24,988 City:mackay,latitude:-20.274644026924193,Temperature(F):73.36,Humidity(%):94,Cloudiness(%):40,Wind Speed(mph):8.61
+2021-01-19 16:17:25,087 City:tucupita,latitude:9.119740098898333,Temperature(F):77.9,Humidity(%):83,Cloudiness(%):69,Wind Speed(mph):5.93
+2021-01-19 16:17:25,200 City:krasnoselkup,latitude:62.72473379810259,Temperature(F):-17.23,Humidity(%):88,Cloudiness(%):100,Wind Speed(mph):3.47
+2021-01-19 16:17:25,384 City:haines junction,latitude:58.24867447380004,Temperature(F):28.4,Humidity(%):80,Cloudiness(%):100,Wind Speed(mph):2.3
+2021-01-19 16:17:25,443 City:pisco,latitude:-24.055184400040773,Temperature(F):76.78,Humidity(%):61,Cloudiness(%):0,Wind Speed(mph):24.16
+2021-01-19 16:17:25,505 City:svetlogorsk,latitude:67.25547724853533,Temperature(F):1.2,Humidity(%):93,Cloudiness(%):0,Wind Speed(mph):3.96
+2021-01-19 16:17:25,562 City:bethel,latitude:59.90185919364151,Temperature(F):35.8,Humidity(%):55,Cloudiness(%):90,Wind Speed(mph):12.66
+2021-01-19 16:17:25,696 City:moranbah,latitude:-22.234372555868177,Temperature(F):74.25,Humidity(%):77,Cloudiness(%):4,Wind Speed(mph):8.81
+2021-01-19 16:17:25,752 City:bay city,latitude:44.03235653570644,Temperature(F):28.54,Humidity(%):64,Cloudiness(%):1,Wind Speed(mph):16.11
+2021-01-19 16:17:25,850 City:upington,latitude:-29.32003571231376,Temperature(F):80.6,Humidity(%):29,Cloudiness(%):89,Wind Speed(mph):6.91
+2021-01-19 16:17:25,909 City:san patricio,latitude:17.634827005467187,Temperature(F):72.54,Humidity(%):73,Cloudiness(%):75,Wind Speed(mph):20.71
+2021-01-19 16:17:25,968 City:huarmey,latitude:-12.185925418917108,Temperature(F):76.14,Humidity(%):67,Cloudiness(%):54,Wind Speed(mph):11.34
+2021-01-19 16:17:26,054 City:mount pleasant,latitude:32.90382677018248,Temperature(F):56.55,Humidity(%):38,Cloudiness(%):1,Wind Speed(mph):12.66
+2021-01-19 16:17:26,132 City:ust-omchug,latitude:61.0701283616998,Temperature(F):-31.36,Humidity(%):78,Cloudiness(%):86,Wind Speed(mph):5.68
+2021-01-19 16:17:26,210 City:kiomboi,latitude:-4.130529222176165,Temperature(F):63.63,Humidity(%):96,Cloudiness(%):100,Wind Speed(mph):4.03
+2021-01-19 16:17:26,304 City:karatau,latitude:42.81528521645234,Temperature(F):41.97,Humidity(%):78,Cloudiness(%):100,Wind Speed(mph):16.82
+2021-01-19 16:17:26,399 City:isangel,latitude:-23.41489803675853,Temperature(F):81.34,Humidity(%):78,Cloudiness(%):100,Wind Speed(mph):3.83
+2021-01-19 16:17:26,470 City:itoman,latitude:19.19293617202314,Temperature(F):58.87,Humidity(%):67,Cloudiness(%):75,Wind Speed(mph):11.5
+2021-01-19 16:17:26,528 City:shimoda,latitude:28.95421821641216,Temperature(F):32,Humidity(%):73,Cloudiness(%):86,Wind Speed(mph):10.56
+2021-01-19 16:17:26,593 City:palu,latitude:-0.12922093165353488,Temperature(F):76.44,Humidity(%):72,Cloudiness(%):100,Wind Speed(mph):2.53
+2021-01-19 16:17:26,678 City:codrington,latitude:25.694937500610806,Temperature(F):50.41,Humidity(%):83,Cloudiness(%):5,Wind Speed(mph):5.55
+2021-01-19 16:17:26,788 City:savonlinna,latitude:61.74997703143916,Temperature(F):28.4,Humidity(%):93,Cloudiness(%):90,Wind Speed(mph):4.61
+2021-01-19 16:17:26,878 City:gidam,latitude:18.990732411950532,Temperature(F):62.24,Humidity(%):61,Cloudiness(%):0,Wind Speed(mph):1.81
+2021-01-19 16:17:26,955 City:loandjili,latitude:-4.608677206567222,Temperature(F):80.6,Humidity(%):89,Cloudiness(%):20,Wind Speed(mph):2.3
+2021-01-19 16:17:27,038 City:aden,latitude:13.34754805706514,Temperature(F):76.42,Humidity(%):67,Cloudiness(%):56,Wind Speed(mph):7.94
+2021-01-19 16:17:27,102 City:constitucion,latitude:20.467401155719514,Temperature(F):67.46,Humidity(%):68,Cloudiness(%):13,Wind Speed(mph):5.32
+2021-01-19 16:17:27,187 City:javanrud,latitude:34.95453702036322,Temperature(F):34.86,Humidity(%):82,Cloudiness(%):1,Wind Speed(mph):3.58
+2021-01-19 16:17:27,344 City:benguela,latitude:-11.469606725845154,Temperature(F):75.99,Humidity(%):70,Cloudiness(%):100,Wind Speed(mph):3.47
+2021-01-19 16:17:27,433 City:linxia,latitude:33.83351669114012,Temperature(F):24.96,Humidity(%):70,Cloudiness(%):100,Wind Speed(mph):1.63
+2021-01-19 16:17:27,495 City:luderitz,latitude:-27.548033477010463,Temperature(F):70.99,Humidity(%):61,Cloudiness(%):0,Wind Speed(mph):25.64
+2021-01-19 16:17:27,541 City:kahului,latitude:22.315011228495038,Temperature(F):75.6,Humidity(%):61,Cloudiness(%):20,Wind Speed(mph):5.75
+2021-01-19 16:17:27,604 City:zhigansk,latitude:66.98032407093717,Temperature(F):-52.6,Humidity(%):75,Cloudiness(%):48,Wind Speed(mph):5.44
+2021-01-19 16:17:27,698 City:hope mills,latitude:35.02157741335701,Temperature(F):57.69,Humidity(%):33,Cloudiness(%):1,Wind Speed(mph):14.97
+2021-01-19 16:17:27,760 City:katsuura,latitude:18.980284291619114,Temperature(F):35.6,Humidity(%):41,Cloudiness(%):20,Wind Speed(mph):21.85
+2021-01-19 16:17:27,838 City:ayan,latitude:55.238114055347694,Temperature(F):-16.22,Humidity(%):78,Cloudiness(%):0,Wind Speed(mph):4.45
+2021-01-19 16:17:27,901 City:prado,latitude:-17.57420555549845,Temperature(F):78.03,Humidity(%):75,Cloudiness(%):0,Wind Speed(mph):8.21
+2021-01-19 16:17:27,995 City:atar,latitude:23.510933417882654,Temperature(F):62.96,Humidity(%):23,Cloudiness(%):65,Wind Speed(mph):10.98
+2021-01-19 16:17:28,089 City:sorland,latitude:71.58090555717013,Temperature(F):34.34,Humidity(%):83,Cloudiness(%):79,Wind Speed(mph):17.07
+2021-01-19 16:17:28,186 City:tabou,latitude:0.5886644195986293,Temperature(F):79.63,Humidity(%):81,Cloudiness(%):10,Wind Speed(mph):6.22
+2021-01-19 16:17:28,249 City:rus,latitude:47.31656886540293,Temperature(F):40.98,Humidity(%):89,Cloudiness(%):68,Wind Speed(mph):0.47
+2021-01-19 16:17:28,327 City:stettler,latitude:52.378134191803554,Temperature(F):33.8,Humidity(%):75,Cloudiness(%):100,Wind Speed(mph):10.36
+2021-01-19 16:17:28,405 City:dali,latitude:25.54913372591244,Temperature(F):40.96,Humidity(%):83,Cloudiness(%):64,Wind Speed(mph):4.68
+2021-01-19 16:17:28,467 City:upernavik,latitude:78.29448123234096,Temperature(F):17.91,Humidity(%):74,Cloudiness(%):100,Wind Speed(mph):6.78
+2021-01-19 16:17:28,546 City:klaksvik,latitude:71.44140427619669,Temperature(F):37.4,Humidity(%):81,Cloudiness(%):85,Wind Speed(mph):4.61
+2021-01-19 16:17:28,640 City:preobrazheniye,latitude:40.48338842956963,Temperature(F):5.56,Humidity(%):72,Cloudiness(%):0,Wind Speed(mph):7.92
+2021-01-19 16:17:28,718 City:bayan,latitude:28.455616988618544,Temperature(F):-10.64,Humidity(%):85,Cloudiness(%):0,Wind Speed(mph):6.29
+2021-01-19 16:17:28,843 City:beloeil,latitude:45.62850599142868,Temperature(F):17.04,Humidity(%):73,Cloudiness(%):75,Wind Speed(mph):4.61
+2021-01-19 16:17:28,905 City:sernovodsk,latitude:53.74485313818755,Temperature(F):24.55,Humidity(%):93,Cloudiness(%):26,Wind Speed(mph):2.24
+2021-01-19 16:17:28,968 City:mineiros,latitude:-18.32845197217931,Temperature(F):76.3,Humidity(%):84,Cloudiness(%):99,Wind Speed(mph):7.43
+2021-01-19 16:17:29,046 City:betong,latitude:5.75869994080665,Temperature(F):66.31,Humidity(%):92,Cloudiness(%):93,Wind Speed(mph):2.73
+2021-01-19 16:17:29,114 City:kaitangata,latitude:-54.18165953846704,Temperature(F):48.99,Humidity(%):81,Cloudiness(%):82,Wind Speed(mph):8.01
+2021-01-19 16:17:29,178 City:sola,latitude:-13.807350139921695,Temperature(F):82.71,Humidity(%):74,Cloudiness(%):90,Wind Speed(mph):5.23
+2021-01-19 16:17:29,257 City:bengkulu,latitude:-10.769841418458512,Temperature(F):74.93,Humidity(%):85,Cloudiness(%):22,Wind Speed(mph):4.25
+2021-01-19 16:17:29,350 City:donskoye,latitude:55.67248796453495,Temperature(F):16.32,Humidity(%):93,Cloudiness(%):75,Wind Speed(mph):6.71
+2021-01-19 16:17:29,444 City:ouadda,latitude:7.562579362939303,Temperature(F):69.49,Humidity(%):24,Cloudiness(%):4,Wind Speed(mph):6.44
+2021-01-19 16:17:29,507 City:aklavik,latitude:75.94796474260397,Temperature(F):1.4,Humidity(%):85,Cloudiness(%):75,Wind Speed(mph):12.66
+2021-01-19 16:17:29,585 City:sitka,latitude:43.60602999788037,Temperature(F):39.2,Humidity(%):81,Cloudiness(%):75,Wind Speed(mph):6.91
+2021-01-19 16:17:29,632 City:norman wells,latitude:68.232794408231,Temperature(F):12.2,Humidity(%):85,Cloudiness(%):90,Wind Speed(mph):23.02
+2021-01-19 16:17:29,711 City:senno,latitude:54.73037003191453,Temperature(F):7.72,Humidity(%):96,Cloudiness(%):100,Wind Speed(mph):4.72
+2021-01-19 16:17:29,773 City:shizunai,latitude:41.65178441994638,Temperature(F):18.63,Humidity(%):88,Cloudiness(%):79,Wind Speed(mph):19.28
+2021-01-19 16:17:29,851 City:kupang,latitude:-13.214628464744337,Temperature(F):77.88,Humidity(%):87,Cloudiness(%):100,Wind Speed(mph):5.39
+2021-01-19 16:17:29,914 City:flin flon,latitude:58.15920449258769,Temperature(F):6.8,Humidity(%):85,Cloudiness(%):90,Wind Speed(mph):11.5
+2021-01-19 16:17:29,992 City:yulara,latitude:-25.84055332805447,Temperature(F):71.6,Humidity(%):24,Cloudiness(%):0,Wind Speed(mph):8.05
+2021-01-19 16:17:30,039 City:alofi,latitude:-25.498369712984058,Temperature(F):86,Humidity(%):74,Cloudiness(%):75,Wind Speed(mph):5.75
+2021-01-19 16:17:30,101 City:saint george,latitude:28.088210247460054,Temperature(F):56.46,Humidity(%):24,Cloudiness(%):1,Wind Speed(mph):13.8
+2021-01-19 16:17:30,167 City:vostok,latitude:47.71406623473493,Temperature(F):-21.14,Humidity(%):86,Cloudiness(%):5,Wind Speed(mph):5.01
+2021-01-19 16:17:30,240 City:hofn,latitude:70.66785934538365,Temperature(F):39.04,Humidity(%):74,Cloudiness(%):32,Wind Speed(mph):16.67
+2021-01-19 16:17:30,320 City:pahrump,latitude:35.62687312900529,Temperature(F):48.56,Humidity(%):22,Cloudiness(%):69,Wind Speed(mph):5.99
+2021-01-19 16:17:30,399 City:mohpa,latitude:21.333877552244218,Temperature(F):71.6,Humidity(%):64,Cloudiness(%):40,Wind Speed(mph):2.3
+2021-01-19 16:17:30,461 City:yelkhovka,latitude:53.790407969123464,Temperature(F):-13,Humidity(%):84,Cloudiness(%):0,Wind Speed(mph):2.24
+2021-01-19 16:17:30,524 City:pompeia,latitude:-21.969340421512783,Temperature(F):79.11,Humidity(%):82,Cloudiness(%):100,Wind Speed(mph):2.33
+2021-01-19 16:17:30,586 City:aksu,latitude:41.05543826722095,Temperature(F):16.75,Humidity(%):91,Cloudiness(%):30,Wind Speed(mph):0.69
+2021-01-19 16:17:30,649 City:lokoja,latitude:8.36262204601826,Temperature(F):83.61,Humidity(%):20,Cloudiness(%):8,Wind Speed(mph):2.19
+2021-01-19 16:17:30,696 City:alyangula,latitude:-15.539841015731795,Temperature(F):77,Humidity(%):100,Cloudiness(%):100,Wind Speed(mph):1.41
+2021-01-19 16:17:30,758 City:ati,latitude:13.098380861408984,Temperature(F):71.38,Humidity(%):21,Cloudiness(%):0,Wind Speed(mph):13.94
+2021-01-19 16:17:30,821 City:shahrud,latitude:35.908957751149956,Temperature(F):40.03,Humidity(%):63,Cloudiness(%):0,Wind Speed(mph):11.27
+2021-01-19 16:17:30,868 City:gizo,latitude:-7.487557723732763,Temperature(F):83.3,Humidity(%):70,Cloudiness(%):36,Wind Speed(mph):7.58
+2021-01-19 16:17:30,946 City:hof,latitude:61.685830767801775,Temperature(F):32.63,Humidity(%):99,Cloudiness(%):100,Wind Speed(mph):3
+2021-01-19 16:17:30,993 City:bulach,latitude:47.54294906565755,Temperature(F):34.92,Humidity(%):75,Cloudiness(%):75,Wind Speed(mph):1.14
+2021-01-19 16:17:31,055 City:barcelona,latitude:10.960327177847887,Temperature(F):49.06,Humidity(%):87,Cloudiness(%):75,Wind Speed(mph):3.44
+2021-01-19 16:17:31,117 City:great falls,latitude:47.648406033151105,Temperature(F):39.04,Humidity(%):38,Cloudiness(%):1,Wind Speed(mph):27.63
+2021-01-19 16:17:31,164 City:gimli,latitude:52.00955610549269,Temperature(F):-2.2,Humidity(%):65,Cloudiness(%):65,Wind Speed(mph):4.61
+2021-01-19 16:17:31,227 City:juba,latitude:5.892300752318704,Temperature(F):82.71,Humidity(%):34,Cloudiness(%):0,Wind Speed(mph):2.21
+2021-01-19 16:17:31,274 City:sarangani,latitude:3.762616096864207,Temperature(F):82.35,Humidity(%):72,Cloudiness(%):99,Wind Speed(mph):0.47
+2021-01-19 16:17:31,377 City:meulaboh,latitude:-0.2347799421406478,Temperature(F):75.51,Humidity(%):87,Cloudiness(%):97,Wind Speed(mph):3.94
+2021-01-19 16:17:31,424 City:peleduy,latitude:60.50848411264272,Temperature(F):-20.67,Humidity(%):84,Cloudiness(%):100,Wind Speed(mph):4.21
+2021-01-19 16:17:31,487 City:oytal,latitude:42.31061491291658,Temperature(F):38.75,Humidity(%):70,Cloudiness(%):100,Wind Speed(mph):4.83
+2021-01-19 16:17:31,549 City:lagunas,latitude:-4.599327598876016,Temperature(F):72.79,Humidity(%):93,Cloudiness(%):100,Wind Speed(mph):2.04
+2021-01-19 16:17:31,612 City:fort smith,latitude:35.44007008386835,Temperature(F):55.38,Humidity(%):35,Cloudiness(%):1,Wind Speed(mph):11.5
+2021-01-19 16:17:31,659 City:quang ngai,latitude:14.90780194717206,Temperature(F):62.4,Humidity(%):85,Cloudiness(%):79,Wind Speed(mph):6.17
+2021-01-19 16:17:31,721 City:pacific grove,latitude:29.15057592140181,Temperature(F):64.69,Humidity(%):11,Cloudiness(%):1,Wind Speed(mph):14.97
+2021-01-19 16:17:31,783 City:kieta,latitude:-2.4022218719980657,Temperature(F):80.19,Humidity(%):75,Cloudiness(%):33,Wind Speed(mph):1.83
+2021-01-19 16:17:31,846 City:muli,latitude:3.103404896269339,Temperature(F):81.55,Humidity(%):75,Cloudiness(%):100,Wind Speed(mph):7.61
+2021-01-19 16:17:31,893 City:lavrentiya,latitude:69.81269625398204,Temperature(F):-15.92,Humidity(%):82,Cloudiness(%):22,Wind Speed(mph):5.37
+2021-01-19 16:17:31,955 City:mersing,latitude:2.248390232500128,Temperature(F):77,Humidity(%):83,Cloudiness(%):99,Wind Speed(mph):12.66
+2021-01-19 16:17:32,018 City:dingle,latitude:50.839026625196084,Temperature(F):73,Humidity(%):94,Cloudiness(%):100,Wind Speed(mph):4.34
+2021-01-19 16:17:32,080 City:tunceli,latitude:39.29807396554017,Temperature(F):12.2,Humidity(%):86,Cloudiness(%):0,Wind Speed(mph):5.75
+2021-01-19 16:17:32,137 City:ambovombe,latitude:-29.823609626657408,Temperature(F):75.9,Humidity(%):86,Cloudiness(%):81,Wind Speed(mph):17.38
+2021-01-19 16:17:32,202 City:katangli,latitude:51.30235597398078,Temperature(F):-7.67,Humidity(%):78,Cloudiness(%):100,Wind Speed(mph):21.16
+2021-01-19 16:17:32,260 City:galesong,latitude:-6.269266939696308,Temperature(F):75.2,Humidity(%):100,Cloudiness(%):40,Wind Speed(mph):4.61
+2021-01-19 16:17:32,314 City:teya,latitude:62.2519780712702,Temperature(F):-16.26,Humidity(%):85,Cloudiness(%):100,Wind Speed(mph):2.39
+2021-01-19 16:17:32,380 City:baraki barak,latitude:33.85843407893347,Temperature(F):32.94,Humidity(%):80,Cloudiness(%):0,Wind Speed(mph):3.18
+2021-01-19 16:17:32,439 City:magadi,latitude:-1.917366540583913,Temperature(F):60.8,Humidity(%):100,Cloudiness(%):40,Wind Speed(mph):3.44
+2021-01-19 16:17:32,496 City:port hardy,latitude:46.850159352936885,Temperature(F):41,Humidity(%):93,Cloudiness(%):90,Wind Speed(mph):10.36
+2021-01-19 16:17:32,552 City:santo antonio do ica,latitude:-3.278709400138098,Temperature(F):78.51,Humidity(%):90,Cloudiness(%):99,Wind Speed(mph):3.44
+2021-01-19 16:17:32,613 City:salekhard,latitude:65.62351840635816,Temperature(F):-23.06,Humidity(%):85,Cloudiness(%):92,Wind Speed(mph):4.41
+2021-01-19 16:17:32,674 City:luwuk,latitude:-0.20562836817393304,Temperature(F):78.6,Humidity(%):78,Cloudiness(%):100,Wind Speed(mph):2.64
+2021-01-19 16:17:32,742 City:porto novo,latitude:13.441909684519999,Temperature(F):82.4,Humidity(%):89,Cloudiness(%):20,Wind Speed(mph):9.22
+2021-01-19 16:17:32,801 City:zunyi,latitude:27.456301743833137,Temperature(F):45.82,Humidity(%):67,Cloudiness(%):100,Wind Speed(mph):4.72
+2021-01-19 16:17:32,853 City:dubbo,latitude:-30.930568736341314,Temperature(F):68,Humidity(%):64,Cloudiness(%):0,Wind Speed(mph):19.57
+2021-01-19 16:17:32,916 City:naze,latitude:28.618357663258664,Temperature(F):56.7,Humidity(%):63,Cloudiness(%):10,Wind Speed(mph):10.85
+2021-01-19 16:17:32,978 City:nor yerznka,latitude:40.28377318734519,Temperature(F):26.6,Humidity(%):86,Cloudiness(%):75,Wind Speed(mph):1.79
+2021-01-19 16:17:33,041 City:jaciara,latitude:-15.932214324782493,Temperature(F):75.58,Humidity(%):92,Cloudiness(%):100,Wind Speed(mph):3
+2021-01-19 16:17:33,103 City:whitehorse,latitude:60.93074257690063,Temperature(F):30.2,Humidity(%):55,Cloudiness(%):75,Wind Speed(mph):5.75
+2021-01-19 16:17:33,163 City:baiyin,latitude:36.716920348319675,Temperature(F):14.23,Humidity(%):52,Cloudiness(%):0,Wind Speed(mph):4.47
+2021-01-19 16:17:33,242 City:warah,latitude:27.553311972544805,Temperature(F):56.03,Humidity(%):35,Cloudiness(%):0,Wind Speed(mph):3.91
+2021-01-19 16:17:33,301 City:ternate,latitude:3.304898728068764,Temperature(F):81.23,Humidity(%):81,Cloudiness(%):99,Wind Speed(mph):6.11
+2021-01-19 16:17:33,351 City:ambilobe,latitude:-12.184227140326172,Temperature(F):75.02,Humidity(%):93,Cloudiness(%):100,Wind Speed(mph):8.57
+2021-01-19 16:17:33,414 City:port augusta,latitude:-28.780156773964826,Temperature(F):67.69,Humidity(%):82,Cloudiness(%):100,Wind Speed(mph):6.91
+2021-01-19 16:17:33,476 City:mahibadhoo,latitude:4.346551594304685,Temperature(F):81.18,Humidity(%):78,Cloudiness(%):21,Wind Speed(mph):11.9
+2021-01-19 16:17:33,539 City:faanui,latitude:-4.173153453536614,Temperature(F):81.43,Humidity(%):73,Cloudiness(%):0,Wind Speed(mph):15.52
+2021-01-19 16:17:33,601 City:mattru,latitude:4.818975002116588,Temperature(F):75.61,Humidity(%):82,Cloudiness(%):99,Wind Speed(mph):3.76
+2021-01-19 16:17:33,664 City:ancud,latitude:-41.539985731848255,Temperature(F):73.4,Humidity(%):60,Cloudiness(%):20,Wind Speed(mph):8.05
+2021-01-19 16:17:33,726 City:papineauville,latitude:45.467170656046505,Temperature(F):18.68,Humidity(%):86,Cloudiness(%):100,Wind Speed(mph):4.61
+2021-01-19 16:17:33,789 City:turiacu,latitude:-1.8317878229997433,Temperature(F):77.86,Humidity(%):85,Cloudiness(%):100,Wind Speed(mph):5.46
+2021-01-19 16:17:33,851 City:quatre cocos,latitude:-15.419884589469063,Temperature(F):79.43,Humidity(%):94,Cloudiness(%):40,Wind Speed(mph):3.44
+2021-01-19 16:17:33,898 City:carauari,latitude:-6.0377103280846995,Temperature(F):72.91,Humidity(%):98,Cloudiness(%):100,Wind Speed(mph):1.3
+2021-01-19 16:17:33,961 City:illapel,latitude:-31.881520130077156,Temperature(F):80.58,Humidity(%):35,Cloudiness(%):0,Wind Speed(mph):8.32
+2021-01-19 16:17:34,023 City:hambantota,latitude:-7.320645502139897,Temperature(F):77.41,Humidity(%):84,Cloudiness(%):91,Wind Speed(mph):4.74
+2021-01-19 16:17:34,070 City:agadez,latitude:17.533600967319728,Temperature(F):58.68,Humidity(%):30,Cloudiness(%):0,Wind Speed(mph):8.88
+2021-01-19 16:17:34,137 City:boshnyakovo,latitude:49.689537038660745,Temperature(F):-8.28,Humidity(%):88,Cloudiness(%):63,Wind Speed(mph):8.32
+2021-01-19 16:17:34,197 City:nantucket,latitude:36.22493099407801,Temperature(F):37.67,Humidity(%):60,Cloudiness(%):1,Wind Speed(mph):13.8
+2021-01-19 16:17:34,257 City:lucea,latitude:17.122643573787798,Temperature(F):82.71,Humidity(%):69,Cloudiness(%):40,Wind Speed(mph):18.41
+2021-01-19 16:17:34,314 City:ngama,latitude:11.540988454966936,Temperature(F):74.19,Humidity(%):19,Cloudiness(%):8,Wind Speed(mph):12.91
+2021-01-19 16:17:34,372 City:henties bay,latitude:-25.014482271730955,Temperature(F):66.99,Humidity(%):88,Cloudiness(%):96,Wind Speed(mph):4.81
+2021-01-19 16:17:34,428 City:kavaratti,latitude:11.577454046161193,Temperature(F):81.7,Humidity(%):70,Cloudiness(%):0,Wind Speed(mph):5.5
+2021-01-19 16:17:34,487 City:verkhoyansk,latitude:68.01085865745318,Temperature(F):-32.71,Humidity(%):80,Cloudiness(%):100,Wind Speed(mph):1.57
+2021-01-19 16:17:34,545 City:leiyang,latitude:26.488934982884018,Temperature(F):49.33,Humidity(%):50,Cloudiness(%):0,Wind Speed(mph):4.7
+2021-01-19 16:17:34,603 City:nyalikungu,latitude:-3.1965441566269135,Temperature(F):66.07,Humidity(%):82,Cloudiness(%):99,Wind Speed(mph):1.74
+2021-01-19 16:17:34,663 City:pontianak,latitude:-1.1122280899715662,Temperature(F):73.4,Humidity(%):100,Cloudiness(%):100,Wind Speed(mph):3.44
+2021-01-19 16:17:34,722 City:laurinburg,latitude:34.64193069779813,Temperature(F):59.97,Humidity(%):27,Cloudiness(%):20,Wind Speed(mph):12.66
+2021-01-19 16:17:34,780 City:port blair,latitude:12.982338974986973,Temperature(F):77.22,Humidity(%):75,Cloudiness(%):93,Wind Speed(mph):9.37
+2021-01-19 16:17:34,823 City:ketchikan,latitude:55.84024268164913,Temperature(F):42.8,Humidity(%):65,Cloudiness(%):40,Wind Speed(mph):11.63
+2021-01-19 16:17:34,886 City:kiama,latitude:-34.73103609381183,Temperature(F):62.6,Humidity(%):88,Cloudiness(%):97,Wind Speed(mph):1.99
+2021-01-19 16:17:34,980 City:yei,latitude:4.782326877084799,Temperature(F):74.14,Humidity(%):39,Cloudiness(%):0,Wind Speed(mph):2.8
+2021-01-19 16:17:35,026 City:poum,latitude:-16.854584028986295,Temperature(F):78.06,Humidity(%):86,Cloudiness(%):100,Wind Speed(mph):4.85
+2021-01-19 16:17:35,120 City:asau,latitude:-12.65416318372587,Temperature(F):18.14,Humidity(%):93,Cloudiness(%):75,Wind Speed(mph):3.44
+2021-01-19 16:17:35,183 City:nova praha,latitude:48.474271789913104,Temperature(F):1.2,Humidity(%):85,Cloudiness(%):0,Wind Speed(mph):3.87
+2021-01-19 16:17:35,270 City:chaozhou,latitude:23.989183211644857,Temperature(F):55.4,Humidity(%):76,Cloudiness(%):68,Wind Speed(mph):3.24
+2021-01-19 16:17:35,381 City:batavia,latitude:43.14407503658421,Temperature(F):26.33,Humidity(%):80,Cloudiness(%):90,Wind Speed(mph):12.66
+2021-01-19 16:17:35,490 City:lumeje,latitude:-12.782514789043162,Temperature(F):67.98,Humidity(%):86,Cloudiness(%):100,Wind Speed(mph):8.95
+2021-01-19 16:17:35,617 City:trelleborg,latitude:55.071177416932585,Temperature(F):35.89,Humidity(%):100,Cloudiness(%):90,Wind Speed(mph):8.05
+2021-01-19 16:17:35,786 City:bonavista,latitude:52.084103799051945,Temperature(F):33.08,Humidity(%):80,Cloudiness(%):99,Wind Speed(mph):5.75
+2021-01-19 16:17:35,913 City:lima,latitude:-17.53946304729466,Temperature(F):75.6,Humidity(%):69,Cloudiness(%):0,Wind Speed(mph):16.11
+2021-01-19 16:17:36,014 City:mildura,latitude:-33.4221152318911,Temperature(F):57.56,Humidity(%):51,Cloudiness(%):0,Wind Speed(mph):12.66
+2021-01-19 16:17:36,146 City:turan,latitude:52.352301179381584,Temperature(F):66.2,Humidity(%):82,Cloudiness(%):75,Wind Speed(mph):1.14
+2021-01-19 16:17:36,202 City:kargasok,latitude:61.689268284333934,Temperature(F):-29.72,Humidity(%):84,Cloudiness(%):2,Wind Speed(mph):6.08
+2021-01-19 16:17:36,277 City:bintulu,latitude:3.019306784458678,Temperature(F):75.11,Humidity(%):100,Cloudiness(%):40,Wind Speed(mph):1.14
+2021-01-19 16:17:36,450 City:antalaha,latitude:-15.441903529831208,Temperature(F):73.58,Humidity(%):93,Cloudiness(%):100,Wind Speed(mph):15.3
+2021-01-19 16:17:36,630 City:azul,latitude:-36.47361937379221,Temperature(F):88,Humidity(%):31,Cloudiness(%):0,Wind Speed(mph):8.01
+2021-01-19 16:17:36,763 City:marzuq,latitude:25.37185483975159,Temperature(F):58.19,Humidity(%):56,Cloudiness(%):58,Wind Speed(mph):1.21
+2021-01-19 16:17:36,864 City:roma,latitude:-28.001077339133765,Temperature(F):32.63,Humidity(%):69,Cloudiness(%):90,Wind Speed(mph):10.36
+2021-01-19 16:17:36,979 City:saskylakh,latitude:81.59696336793448,Temperature(F):-21.24,Humidity(%):86,Cloudiness(%):100,Wind Speed(mph):6.02
+2021-01-19 16:17:37,094 City:lufkin,latitude:31.283864638032014,Temperature(F):67.37,Humidity(%):64,Cloudiness(%):90,Wind Speed(mph):4.61
+2021-01-19 16:17:37,235 City:kenitra,latitude:34.94072369914855,Temperature(F):42.8,Humidity(%):100,Cloudiness(%):20,Wind Speed(mph):3.44
+2021-01-19 16:17:37,378 City:mnogovershinnyy,latitude:53.656264255465345,Temperature(F):-23.85,Humidity(%):79,Cloudiness(%):0,Wind Speed(mph):6.04
+2021-01-19 16:17:37,519 City:derzhavinsk,latitude:50.75584562291155,Temperature(F):9.5,Humidity(%):94,Cloudiness(%):100,Wind Speed(mph):13.71
+2021-01-19 16:17:37,607 City:gorontalo,latitude:1.723202543877747,Temperature(F):77.02,Humidity(%):84,Cloudiness(%):99,Wind Speed(mph):1.9
+2021-01-19 16:17:37,779 City:neiafu,latitude:-18.442109730503475,Temperature(F):86,Humidity(%):74,Cloudiness(%):40,Wind Speed(mph):5.75
+2021-01-19 16:17:37,931 City:san ramon de la nueva oran,latitude:-23.289319296294252,Temperature(F):90,Humidity(%):40,Cloudiness(%):3,Wind Speed(mph):4.65
+2021-01-19 16:17:38,045 City:poplar bluff,latitude:37.14158107746984,Temperature(F):51.94,Humidity(%):40,Cloudiness(%):1,Wind Speed(mph):5.75
+2021-01-19 16:17:38,250 City:corinto,latitude:11.066797207425765,Temperature(F):37,Humidity(%):63,Cloudiness(%):0,Wind Speed(mph):3
+2021-01-19 16:17:38,371 City:karwar,latitude:13.507515925795545,Temperature(F):75.65,Humidity(%):68,Cloudiness(%):0,Wind Speed(mph):4.38
+2021-01-19 16:17:38,600 City:talnakh,latitude:73.49759787053011,Temperature(F):-24.9,Humidity(%):85,Cloudiness(%):100,Wind Speed(mph):1.01
+2021-01-19 16:17:38,741 City:adrar,latitude:24.743079686048247,Temperature(F):61.07,Humidity(%):25,Cloudiness(%):1,Wind Speed(mph):11.41
+2021-01-19 16:17:38,834 City:caruray,latitude:10.646799217671898,Temperature(F):78.8,Humidity(%):83,Cloudiness(%):20,Wind Speed(mph):16.11
+2021-01-19 16:17:38,941 City:praia da vitoria,latitude:46.24840547234734,Temperature(F):58.59,Humidity(%):72,Cloudiness(%):40,Wind Speed(mph):17.63
+2021-01-19 16:17:39,075 City:kulykiv,latitude:50.36158903132497,Temperature(F):17.01,Humidity(%):88,Cloudiness(%):100,Wind Speed(mph):1.99
+2021-01-19 16:17:39,139 City:orhangazi,latitude:40.3098573016492,Temperature(F):15.62,Humidity(%):92,Cloudiness(%):89,Wind Speed(mph):1.74
+2021-01-19 16:17:39,248 City:snina,latitude:49.02943016914449,Temperature(F):19,Humidity(%):89,Cloudiness(%):100,Wind Speed(mph):3
+2021-01-19 16:17:39,357 City:kidal,latitude:19.1241608086833,Temperature(F):67.33,Humidity(%):22,Cloudiness(%):0,Wind Speed(mph):13.24
+2021-01-19 16:17:39,482 City:graaff-reinet,latitude:-32.563706872740376,Temperature(F):69.01,Humidity(%):67,Cloudiness(%):7,Wind Speed(mph):4
+2021-01-19 16:17:39,586 City:turinsk,latitude:57.937048918798126,Temperature(F):-2.54,Humidity(%):89,Cloudiness(%):100,Wind Speed(mph):7.29
+2021-01-19 16:17:39,717 City:nsanje,latitude:-17.04741487983462,Temperature(F):76.51,Humidity(%):91,Cloudiness(%):100,Wind Speed(mph):2.82
+2021-01-19 16:17:39,826 City:russellville,latitude:34.955351352752274,Temperature(F):57.54,Humidity(%):33,Cloudiness(%):1,Wind Speed(mph):8.05
+2021-01-19 16:17:39,904 City:jipijapa,latitude:-1.4816355518136817,Temperature(F):82.4,Humidity(%):74,Cloudiness(%):75,Wind Speed(mph):6.91
+2021-01-19 16:17:40,022 City:chiredzi,latitude:-21.77104973015777,Temperature(F):67.78,Humidity(%):97,Cloudiness(%):100,Wind Speed(mph):4.36
+2021-01-19 16:17:40,084 City:noshiro,latitude:41.83283531458744,Temperature(F):25.99,Humidity(%):93,Cloudiness(%):100,Wind Speed(mph):17.78
+2021-01-19 16:17:40,163 City:ullapool,latitude:58.142902365354416,Temperature(F):34,Humidity(%):32,Cloudiness(%):100,Wind Speed(mph):1.01
+2021-01-19 16:17:40,309 City:viedma,latitude:-45.62196358154177,Temperature(F):82.99,Humidity(%):53,Cloudiness(%):42,Wind Speed(mph):15.3
+2021-01-19 16:17:40,455 City:gobabis,latitude:-21.975714225324367,Temperature(F):74.73,Humidity(%):50,Cloudiness(%):88,Wind Speed(mph):6.31
+2021-01-19 16:17:40,594 City:rio brilhante,latitude:-21.812816719328083,Temperature(F):73.27,Humidity(%):95,Cloudiness(%):100,Wind Speed(mph):2.3
+2021-01-19 16:17:40,682 City:camacha,latitude:34.52265058054638,Temperature(F):59,Humidity(%):77,Cloudiness(%):20,Wind Speed(mph):6.91
+2021-01-19 16:17:40,742 City:lata,latitude:-9.484895143580545,Temperature(F):54.39,Humidity(%):76,Cloudiness(%):100,Wind Speed(mph):5.01
+2021-01-19 16:17:40,797 City:yairipok,latitude:24.425024463783984,Temperature(F):45.9,Humidity(%):83,Cloudiness(%):2,Wind Speed(mph):1.01
+2021-01-19 16:17:40,929 City:along,latitude:32.424800077763294,Temperature(F):53.73,Humidity(%):81,Cloudiness(%):99,Wind Speed(mph):1.23
+2021-01-19 16:17:41,054 City:evanston,latitude:42.348298404400026,Temperature(F):27.27,Humidity(%):80,Cloudiness(%):90,Wind Speed(mph):12.66
+2021-01-19 16:17:41,138 City:matara,latitude:-1.1805178696445182,Temperature(F):75.54,Humidity(%):89,Cloudiness(%):99,Wind Speed(mph):3.29
+2021-01-19 16:17:41,267 City:deer lake,latitude:49.514942195486555,Temperature(F):28.2,Humidity(%):69,Cloudiness(%):75,Wind Speed(mph):8.05
+2021-01-19 16:17:41,710 City:salto del guaira,latitude:-24.309400745684798,Temperature(F):71.28,Humidity(%):97,Cloudiness(%):100,Wind Speed(mph):6.98
+2021-01-19 16:17:41,819 City:sarakhs,latitude:36.07986620239937,Temperature(F):52.99,Humidity(%):43,Cloudiness(%):0,Wind Speed(mph):7.9
+2021-01-19 16:17:41,929 City:glendive,latitude:46.69248850149114,Temperature(F):35.67,Humidity(%):64,Cloudiness(%):1,Wind Speed(mph):11.5
+2021-01-19 16:17:41,992 City:biak,latitude:0.6069042347424727,Temperature(F):77.29,Humidity(%):82,Cloudiness(%):100,Wind Speed(mph):2.46
+2021-01-19 16:17:42,070 City:polunochnoye,latitude:61.25370417018351,Temperature(F):-7.38,Humidity(%):90,Cloudiness(%):100,Wind Speed(mph):5.73
+2021-01-19 16:17:42,185 City:tilichiki,latitude:59.734409855163165,Temperature(F):-26.55,Humidity(%):84,Cloudiness(%):90,Wind Speed(mph):14.18
+2021-01-19 16:17:42,278 City:berlevag,latitude:80.45566412969407,Temperature(F):24.6,Humidity(%):63,Cloudiness(%):75,Wind Speed(mph):20.71
+2021-01-19 16:17:42,403 City:kitui,latitude:-1.317129900024213,Temperature(F):67.05,Humidity(%):58,Cloudiness(%):95,Wind Speed(mph):4
+2021-01-19 16:17:42,596 City:miracema do tocantins,latitude:-9.614877240770696,Temperature(F):81.21,Humidity(%):77,Cloudiness(%):30,Wind Speed(mph):3.04
+2021-01-19 16:17:42,689 City:morro bay,latitude:34.255975739830205,Temperature(F):67.21,Humidity(%):25,Cloudiness(%):14,Wind Speed(mph):8.01
+2021-01-19 16:17:42,755 City:forest lake,latitude:45.2801957140872,Temperature(F):13.37,Humidity(%):73,Cloudiness(%):100,Wind Speed(mph):5.01
+2021-01-19 16:17:42,834 City:klyuchi,latitude:56.98555231732209,Temperature(F):-7.55,Humidity(%):90,Cloudiness(%):84,Wind Speed(mph):7.2
+2021-01-19 16:17:42,897 City:petatlan,latitude:16.254830905567857,Temperature(F):86,Humidity(%):74,Cloudiness(%):75,Wind Speed(mph):4.99
+2021-01-19 16:17:42,959 City:yumen,latitude:41.15926589310877,Temperature(F):17.89,Humidity(%):65,Cloudiness(%):97,Wind Speed(mph):2.51
+2021-01-19 16:17:43,053 City:lingao,latitude:19.59259518822482,Temperature(F):61.93,Humidity(%):91,Cloudiness(%):61,Wind Speed(mph):6.53
+2021-01-19 16:17:43,131 City:madang,latitude:-4.3999754688118315,Temperature(F):76.44,Humidity(%):89,Cloudiness(%):100,Wind Speed(mph):4.81
+2021-01-19 16:17:43,248 City:carballo,latitude:43.74680339281065,Temperature(F):47.48,Humidity(%):87,Cloudiness(%):100,Wind Speed(mph):15.99
+2021-01-19 16:17:43,308 City:orlik,latitude:53.46017350755352,Temperature(F):-4.92,Humidity(%):82,Cloudiness(%):17,Wind Speed(mph):3.67
+2021-01-19 16:17:43,371 City:dzerzhinsk,latitude:53.59277684107417,Temperature(F):-0.2,Humidity(%):78,Cloudiness(%):75,Wind Speed(mph):2.24
+2021-01-19 16:17:43,430 City:mul,latitude:20.235130648832808,Temperature(F):68.4,Humidity(%):55,Cloudiness(%):0,Wind Speed(mph):3.96
+2021-01-19 16:17:43,527 City:vilhena,latitude:-13.491961780069772,Temperature(F):77,Humidity(%):78,Cloudiness(%):75,Wind Speed(mph):5.75
+2021-01-19 16:17:43,583 City:bunia,latitude:1.792035404337156,Temperature(F):71.53,Humidity(%):54,Cloudiness(%):93,Wind Speed(mph):1.3
+2021-01-19 16:17:43,646 City:sobolevo,latitude:53.638617943576776,Temperature(F):-2.29,Humidity(%):93,Cloudiness(%):44,Wind Speed(mph):3.51
+2021-01-19 16:17:43,722 City:buluang,latitude:12.609667358780385,Temperature(F):73.71,Humidity(%):90,Cloudiness(%):88,Wind Speed(mph):2.33
+2021-01-19 16:17:43,787 City:mount gambier,latitude:-37.52117258760449,Temperature(F):42.8,Humidity(%):100,Cloudiness(%):0,Wind Speed(mph):5.75
+2021-01-19 16:17:43,847 City:comodoro rivadavia,latitude:-47.34133794057923,Temperature(F):77,Humidity(%):44,Cloudiness(%):75,Wind Speed(mph):16.11
+2021-01-19 16:17:43,910 City:salinas,latitude:-2.9522367824586127,Temperature(F):66.96,Humidity(%):12,Cloudiness(%):1,Wind Speed(mph):23.02
+2021-01-19 16:17:43,975 City:sambava,latitude:-12.354967840241855,Temperature(F):74.37,Humidity(%):87,Cloudiness(%):100,Wind Speed(mph):8.1
+2021-01-19 16:17:44,031 City:santa rosa,latitude:-36.322455393059286,Temperature(F):76.3,Humidity(%):88,Cloudiness(%):90,Wind Speed(mph):2.3
+2021-01-19 16:17:44,109 City:baykit,latitude:64.66173462142044,Temperature(F):-27.29,Humidity(%):80,Cloudiness(%):99,Wind Speed(mph):1.7
+2021-01-19 16:17:44,172 City:belmonte,latitude:-15.082610819796201,Temperature(F):80.6,Humidity(%):65,Cloudiness(%):20,Wind Speed(mph):10.36
+2021-01-19 16:17:44,250 City:kodinsk,latitude:60.17498160602352,Temperature(F):-13.74,Humidity(%):88,Cloudiness(%):100,Wind Speed(mph):2.35
+2021-01-19 16:17:44,327 City:husavik,latitude:74.900284003497,Temperature(F):30.2,Humidity(%):100,Cloudiness(%):90,Wind Speed(mph):19.57
+2021-01-19 16:17:44,426 City:uvat,latitude:58.661793907997264,Temperature(F):-17.52,Humidity(%):84,Cloudiness(%):55,Wind Speed(mph):4.72
+2021-01-19 16:17:44,629 City:taft,latitude:31.119091629097852,Temperature(F):46.4,Humidity(%):17,Cloudiness(%):0,Wind Speed(mph):6.91
+2021-01-19 16:17:44,742 City:ialibu,latitude:-6.7745241152028655,Temperature(F):55.69,Humidity(%):94,Cloudiness(%):56,Wind Speed(mph):2.73
+2021-01-19 16:17:44,837 City:guthrie,latitude:36.128933250051304,Temperature(F):46.72,Humidity(%):36,Cloudiness(%):1,Wind Speed(mph):9.22
+2021-01-19 16:17:44,909 City:grootfontein,latitude:-20.698727706310038,Temperature(F):69.8,Humidity(%):83,Cloudiness(%):100,Wind Speed(mph):2.3
+2021-01-19 16:17:44,970 City:halifax,latitude:43.40643114400564,Temperature(F):26.64,Humidity(%):46,Cloudiness(%):20,Wind Speed(mph):14.97
+2021-01-19 16:17:45,033 City:jawhar,latitude:2.7886867971711524,Temperature(F):72.99,Humidity(%):71,Cloudiness(%):92,Wind Speed(mph):15.28
+2021-01-19 16:17:45,102 City:kharsia,latitude:22.08159759590997,Temperature(F):64.62,Humidity(%):51,Cloudiness(%):0,Wind Speed(mph):2.42
+2021-01-19 16:17:45,164 City:bouillante,latitude:15.904649565202305,Temperature(F):80.6,Humidity(%):65,Cloudiness(%):20,Wind Speed(mph):11.5
+2021-01-19 16:17:45,237 City:olga,latitude:40.957611500281246,Temperature(F):-4,Humidity(%):73,Cloudiness(%):0,Wind Speed(mph):7.78
+2021-01-19 16:17:45,328 City:nome,latitude:63.403090920966406,Temperature(F):-9.89,Humidity(%):77,Cloudiness(%):1,Wind Speed(mph):11.5
+2021-01-19 16:17:45,403 City:billings,latitude:46.69309662954018,Temperature(F):40.39,Humidity(%):33,Cloudiness(%):20,Wind Speed(mph):24.16
+2021-01-19 16:17:45,485 City:luis correia,latitude:-2.6189845343142935,Temperature(F):75.2,Humidity(%):94,Cloudiness(%):75,Wind Speed(mph):9.22
+2021-01-19 16:17:45,595 City:champerico,latitude:9.675049574744847,Temperature(F):80.71,Humidity(%):58,Cloudiness(%):75,Wind Speed(mph):6.91
+2021-01-19 16:17:45,766 City:teluk nibung,latitude:3.302551433346281,Temperature(F):74.12,Humidity(%):92,Cloudiness(%):100,Wind Speed(mph):5.68
+2021-01-19 16:17:45,847 City:kalmunai,latitude:7.566939701051837,Temperature(F):74.86,Humidity(%):94,Cloudiness(%):37,Wind Speed(mph):10.89
+2021-01-19 16:17:45,960 City:hlotse,latitude:-28.601189892201347,Temperature(F):66.78,Humidity(%):54,Cloudiness(%):59,Wind Speed(mph):1.57
+2021-01-19 16:17:46,019 City:erenhot,latitude:42.98544935464969,Temperature(F):8.74,Humidity(%):88,Cloudiness(%):0,Wind Speed(mph):10.27
+2021-01-19 16:17:46,133 City:westport,latitude:-40.4223686430664,Temperature(F):38.88,Humidity(%):45,Cloudiness(%):90,Wind Speed(mph):13.8
+2021-01-19 16:17:46,201 City:pauini,latitude:-6.294043719155141,Temperature(F):77.41,Humidity(%):82,Cloudiness(%):100,Wind Speed(mph):0.78
+2021-01-19 16:17:46,271 City:ilhabela,latitude:-26.685529886972915,Temperature(F):79.38,Humidity(%):81,Cloudiness(%):99,Wind Speed(mph):3.62
+2021-01-19 16:17:46,363 City:sistranda,latitude:70.08205163992679,Temperature(F):33.8,Humidity(%):64,Cloudiness(%):0,Wind Speed(mph):16.11
+2021-01-19 16:17:46,422 City:kondinskoye,latitude:59.74694358892353,Temperature(F):-16.64,Humidity(%):84,Cloudiness(%):82,Wind Speed(mph):6.17
+2021-01-19 16:17:46,484 City:yantal,latitude:56.811603061939024,Temperature(F):1.8,Humidity(%):91,Cloudiness(%):100,Wind Speed(mph):7.07
+2021-01-19 16:17:46,550 City:urzhum,latitude:57.13848426558826,Temperature(F):1.38,Humidity(%):93,Cloudiness(%):100,Wind Speed(mph):4.83
+2021-01-19 16:17:46,616 City:kawalu,latitude:-15.52887659477176,Temperature(F):71.71,Humidity(%):88,Cloudiness(%):70,Wind Speed(mph):4.23
+2021-01-19 16:17:46,684 City:soe,latitude:-10.938539980086475,Temperature(F):65.73,Humidity(%):100,Cloudiness(%):92,Wind Speed(mph):4.61
+2021-01-19 16:17:46,747 City:waddan,latitude:29.240657819977486,Temperature(F):51.44,Humidity(%):68,Cloudiness(%):46,Wind Speed(mph):10.11
+2021-01-19 16:17:46,806 City:jijiga,latitude:9.511601744548926,Temperature(F):58.06,Humidity(%):38,Cloudiness(%):3,Wind Speed(mph):9.35
+2021-01-19 16:17:46,865 City:araripe,latitude:-7.351309240638429,Temperature(F):78.51,Humidity(%):51,Cloudiness(%):94,Wind Speed(mph):4.32
+2021-01-19 16:17:46,924 City:tual,latitude:-7.891328986275198,Temperature(F):84.25,Humidity(%):74,Cloudiness(%):100,Wind Speed(mph):6.96
+2021-01-19 16:17:46,982 City:rio gallegos,latitude:-51.07148043752085,Temperature(F):66.2,Humidity(%):37,Cloudiness(%):20,Wind Speed(mph):23.02
+2021-01-19 16:17:47,041 City:roros,latitude:62.65790197796841,Temperature(F):24.8,Humidity(%):80,Cloudiness(%):90,Wind Speed(mph):5.75
+2021-01-19 16:17:47,101 City:te anau,latitude:-42.07549372297938,Temperature(F):44.67,Humidity(%):88,Cloudiness(%):100,Wind Speed(mph):8.39
+2021-01-19 16:17:47,156 City:broome,latitude:-20.601241375268216,Temperature(F):31.93,Humidity(%):64,Cloudiness(%):75,Wind Speed(mph):13.8
+2021-01-19 16:17:47,213 City:banyo,latitude:7.081672870767605,Temperature(F):66.16,Humidity(%):26,Cloudiness(%):24,Wind Speed(mph):3.89
+2021-01-19 16:17:47,270 City:cururupu,latitude:0.25283603023737555,Temperature(F):77.47,Humidity(%):85,Cloudiness(%):100,Wind Speed(mph):4.52
+2021-01-19 16:17:47,330 City:makakilo city,latitude:8.14647465863544,Temperature(F):75.99,Humidity(%):78,Cloudiness(%):90,Wind Speed(mph):5.75
+2021-01-19 16:17:47,388 City:gumdag,latitude:38.15951168440347,Temperature(F):43.45,Humidity(%):65,Cloudiness(%):30,Wind Speed(mph):11.36
+2021-01-19 16:17:47,456 City:tanda,latitude:7.82178570593581,Temperature(F):57.4,Humidity(%):73,Cloudiness(%):0,Wind Speed(mph):6.69
+2021-01-19 16:17:47,537 City:saint-augustin,latitude:58.260151079585455,Temperature(F):22.37,Humidity(%):92,Cloudiness(%):78,Wind Speed(mph):12.17
+2021-01-19 16:17:47,618 City:sosnovo,latitude:60.88035602004882,Temperature(F):24.01,Humidity(%):97,Cloudiness(%):70,Wind Speed(mph):7.11
+2021-01-19 16:17:47,677 City:rocha,latitude:-46.619492539097784,Temperature(F):79.59,Humidity(%):43,Cloudiness(%):0,Wind Speed(mph):8.19
+2021-01-19 16:17:47,841 City:manhattan,latitude:39.73053771841816,Temperature(F):39.92,Humidity(%):48,Cloudiness(%):75,Wind Speed(mph):8.05
+2021-01-19 16:17:47,892 City:buala,latitude:-3.4039457117840612,Temperature(F):82.38,Humidity(%):75,Cloudiness(%):98,Wind Speed(mph):5.75
+2021-01-19 16:17:47,959 City:kushima,latitude:29.784875428107924,Temperature(F):33.39,Humidity(%):93,Cloudiness(%):0,Wind Speed(mph):3.44
+2021-01-19 16:17:48,047 City:male,latitude:4.701199765078698,Temperature(F):82.4,Humidity(%):78,Cloudiness(%):75,Wind Speed(mph):11.5
+2021-01-19 16:17:48,105 City:starkville,latitude:33.844577784103535,Temperature(F):49.69,Humidity(%):87,Cloudiness(%):90,Wind Speed(mph):3.38
+2021-01-19 16:17:48,156 City:olafsvik,latitude:65.22817732293674,Temperature(F):33.42,Humidity(%):89,Cloudiness(%):94,Wind Speed(mph):39.08
+2021-01-19 16:17:48,218 City:maralal,latitude:1.3335591610790232,Temperature(F):60.58,Humidity(%):50,Cloudiness(%):69,Wind Speed(mph):4.47
+2021-01-19 16:17:48,306 City:lagos,latitude:35.91310528868138,Temperature(F):84.2,Humidity(%):74,Cloudiness(%):40,Wind Speed(mph):5.75
